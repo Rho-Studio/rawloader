@@ -10,7 +10,7 @@ use toml::Value;
 extern crate rustc_version;
 use rustc_version::{version, Version};
   
-fn main() {
+pub fn join_toml_data() {
   let out_dir = env::var("OUT_DIR").unwrap();
   let dest_path = Path::new(&out_dir).join("all.toml");
   let mut out = File::create(dest_path).unwrap();
