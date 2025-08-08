@@ -1,0 +1,15 @@
+make = HTC
+model = HTC 10
+clean_make = HTC
+clean_model = HTC 10
+width = 4104
+height = 3046
+cpp = 1
+wb_coeffs = [2.1694915, 1.0, 1.5609756, NaN]
+whitelevels = [4095, 4095, 4095, 4095]
+blacklevels = [202, 202, 202, 202]
+xyz_to_cam = [[1.0625, -0.1328125, -0.4296875], [-0.5703125, 1.5546875, 0.21875], [-0.0859375, 0.2109375, 0.7890625], [0.0, 0.0, 0.0]]
+cfa = RGGB
+crops = [24, 30, 22, 74]
+blackareas = []
+orientation = Normal

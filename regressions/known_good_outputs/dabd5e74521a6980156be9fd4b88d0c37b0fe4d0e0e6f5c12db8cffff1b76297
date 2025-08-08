@@ -1,0 +1,15 @@
+make = FUJIFILM
+model = FinePix S5000
+clean_make = Fujifilm
+clean_model = FinePix S5000
+width = 2500
+height = 2499
+cpp = 1
+wb_coeffs = [163.0, 80.0, 125.0, NaN]
+whitelevels = [15866, 15866, 15866, 15866]
+blacklevels = [0, 0, 0, 0]
+xyz_to_cam = [[8754.0, -2732.0, -1019.0], [-7204.0, 15069.0, 2276.0], [-1702.0, 2334.0, 6982.0], [0.0, 0.0, 0.0]]
+cfa = GBRG
+crops = [0, 0, 0, 0]
+blackareas = []
+orientation = Normal

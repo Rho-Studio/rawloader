@@ -1,0 +1,15 @@
+make = EASTMAN KODAK COMPANY
+model = KODAK P880 ZOOM DIGITAL CAMERA
+clean_make = Kodak
+clean_model = P880
+width = 3280
+height = 2454
+cpp = 1
+wb_coeffs = [131072.0, 65536.0, 75008.0, NaN]
+whitelevels = [4095, 4095, 4095, 4095]
+blacklevels = [0, 0, 0, 0]
+xyz_to_cam = [[12805.0, -4662.0, -1376.0], [-7480.0, 15267.0, 2360.0], [-1626.0, 2194.0, 7904.0], [0.0, 0.0, 0.0]]
+cfa = BGGR
+crops = [0, 0, 0, 0]
+blackareas = []
+orientation = Normal

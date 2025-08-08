@@ -1,0 +1,14 @@
+[package]
+name = "regressions"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+indicatif = "0.18.0"
+reqwest = { version = "0.12.22", features = ["blocking", "stream"] }
+tokio = { version = "1.47.1", features = ["macros", "rt-multi-thread", "full"] }
+futures-util = { version = "0.3.31", features = [] }
+async-channel = "2.5.0"
+rawloader = { path = "../" }
+rayon = "1.10.0"
+similar = "2.7.0"

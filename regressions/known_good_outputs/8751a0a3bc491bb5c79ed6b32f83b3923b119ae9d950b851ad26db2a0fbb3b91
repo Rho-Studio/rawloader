@@ -1,0 +1,15 @@
+make = NIKON CORPORATION
+model = NIKON D5300
+clean_make = Nikon
+clean_model = D5300
+width = 6016
+height = 4016
+cpp = 1
+wb_coeffs = [2.0742188, 1.0, 1.3984375, NaN]
+whitelevels = [15892, 15892, 15892, 15892]
+blacklevels = [600, 600, 600, 600]
+xyz_to_cam = [[6988.0, -1384.0, -714.0], [-5631.0, 13410.0, 2447.0], [-1485.0, 2204.0, 7318.0], [0.0, 0.0, 0.0]]
+cfa = RGGB
+crops = [0, 0, 0, 0]
+blackareas = []
+orientation = Normal

@@ -1,0 +1,15 @@
+make = SONY
+model = SLT-A33
+clean_make = Sony
+clean_model = SLT-A33
+width = 4608
+height = 3072
+cpp = 1
+wb_coeffs = [2344.0, 1024.0, 1508.0, NaN]
+whitelevels = [16300, 16300, 16300, 16300]
+blacklevels = [512, 512, 512, 512]
+xyz_to_cam = [[6069.0, -1221.0, -366.0], [-5221.0, 12779.0, 2734.0], [-1024.0, 2066.0, 6834.0], [0.0, 0.0, 0.0]]
+cfa = RGGB
+crops = [0, 0, 0, 0]
+blackareas = []
+orientation = Normal

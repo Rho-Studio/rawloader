@@ -1,0 +1,15 @@
+make = OLYMPUS IMAGING CORP.
+model = E-P1
+clean_make = Olympus
+clean_model = E-P1
+width = 4100
+height = 3084
+cpp = 1
+wb_coeffs = [0.0, 256.0, 0.0, NaN]
+whitelevels = [4095, 4095, 4095, 4095]
+blacklevels = [0, 0, 0, 0]
+xyz_to_cam = [[8343.0, -2050.0, -1021.0], [-7715.0, 15705.0, 2103.0], [-1831.0, 2380.0, 8235.0], [0.0, 0.0, 0.0]]
+cfa = RGGB
+crops = [0, 6, 2, 0]
+blackareas = []
+orientation = Normal

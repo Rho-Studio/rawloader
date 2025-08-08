@@ -1,14 +1,14 @@
-use serde::Deserialize;
+use serde::{Deserialize, Serialize};
 
 // This is the root structure that will hold the entire TOML file content.
-#[derive(Debug, Deserialize)]
+#[derive(Debug, Serialize, Deserialize)]
 pub struct Config {
     #[serde(rename = "cameras")]
     pub cameras: Vec<Camera>,
 }
 
 // Represents a single [[cameras]] table from the TOML file.
-#[derive(Debug, Deserialize)]
+#[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Camera {
     // Required fields present in every camera entry
     pub make: String,
@@ -41,7 +41,7 @@ pub struct Camera {
 }
 
 // Represents a single [[cameras.modes]] table.
-#[derive(Debug, Deserialize)]
+#[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Mode {
     pub mode: String,
     // These fields are optional within a mode definition.
@@ -50,12 +50,4 @@ pub struct Mode {
     pub color_pattern: Option<String>,
     pub crops: Option<Vec<i64>>,
     pub highres_width: Option<i64>,
-}
-
-pub fn parse_cameras() -> Vec<Camera> {
-    let toml_content = include_str!("../all.toml");
-
-    let config: Config = toml::from_str(toml_content).unwrap();
-
-    config.cameras
 }

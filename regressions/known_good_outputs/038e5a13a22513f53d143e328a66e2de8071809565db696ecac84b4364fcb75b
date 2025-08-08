@@ -1,0 +1,15 @@
+make = FUJIFILM
+model = FinePix S3Pro
+clean_make = Fujifilm
+clean_model = FinePix S3Pro
+width = 3584
+height = 3583
+cpp = 1
+wb_coeffs = [168.0, 80.0, 79.0, NaN]
+whitelevels = [16383, 16383, 16383, 16383]
+blacklevels = [0, 0, 0, 0]
+xyz_to_cam = [[11807.0, -4612.0, -1294.0], [-8927.0, 16968.0, 1988.0], [-2120.0, 2741.0, 8006.0], [0.0, 0.0, 0.0]]
+cfa = GBRG
+crops = [0, 0, 0, 0]
+blackareas = []
+orientation = Normal

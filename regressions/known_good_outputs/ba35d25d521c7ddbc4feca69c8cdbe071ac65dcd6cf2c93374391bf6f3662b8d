@@ -1,0 +1,15 @@
+make = Leica Camera AG
+model = LEICA M10-R
+clean_make = Leica Camera AG
+clean_model = LEICA M10-R
+width = 7872
+height = 5208
+cpp = 1
+wb_coeffs = [3.2382813, 1.0, 1.5390625, NaN]
+whitelevels = [15000, 15000, 15000, 15000]
+blacklevels = [0, 0, 0, 0]
+xyz_to_cam = [[0.48779297, -0.12866211, -0.048583984], [-0.5839844, 1.3701172, 0.22070313], [-0.18041992, 0.33691406, 0.5251465], [0.0, 0.0, 0.0]]
+cfa = GBRG
+crops = [0, 0, 0, 0]
+blackareas = []
+orientation = Normal

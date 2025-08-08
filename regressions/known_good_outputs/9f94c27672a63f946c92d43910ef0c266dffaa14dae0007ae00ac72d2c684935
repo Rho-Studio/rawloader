@@ -1,0 +1,15 @@
+make = NIKON CORPORATION
+model = NIKON D50
+clean_make = Nikon
+clean_model = D50
+width = 3040
+height = 2014
+cpp = 1
+wb_coeffs = [583.0, 264.0, 349.0, NaN]
+whitelevels = [4095, 4095, 4095, 4095]
+blacklevels = [0, 0, 0, 0]
+xyz_to_cam = [[7732.0, -2422.0, -789.0], [-8238.0, 15884.0, 2498.0], [-859.0, 783.0, 7330.0], [0.0, 0.0, 0.0]]
+cfa = BGGR
+crops = [0, 2, 2, 0]
+blackareas = []
+orientation = Normal

@@ -3,7 +3,7 @@
 require 'fileutils'
 
 BASE = File.dirname(__FILE__)
-RAWBASE="https://raw.pixls.us/data/"
+RAWBASE="https://raw.pixls.us/download/data/"
 FILELIST = File.expand_path('filelist.sha1', File.dirname(__FILE__))
 FILENUM = File.open(FILELIST).each.count
 
@@ -13,7 +13,7 @@ def download_file(hash, file, location)
     existhash = IO.popen("sha1sum \"#{file}\"").read.split(" ")[0]
   end
   if existhash != hash
-    puts "Downloading file \"#{file}\"!"
+    puts "\nDownloading file \"#{file}\"!"
     system "curl -g -f -# \"#{RAWBASE+location.gsub(" ","%20")}\" --create-dirs -o \"#{file}\""
     newhash = IO.popen("sha1sum \"#{file}\"").read.split(" ")[0]
     if newhash != hash

@@ -1,0 +1,15 @@
+make = Canon
+model = Canon EOS-1D X Mark II
+clean_make = Canon
+clean_model = Canon EOS-1D X Mark II
+width = 2736
+height = 1824
+cpp = 3
+wb_coeffs = [1900.0, 1024.0, 1596.0, NaN]
+whitelevels = [65535, 65535, 65535, 65535]
+blacklevels = [0, 0, 0, 0]
+xyz_to_cam = [[7596.0, -978.0, -967.0], [-4808.0, 12571.0, 2503.0], [-1398.0, 2567.0, 5752.0], [0.0, 0.0, 0.0]]
+cfa = RGGB
+crops = [0, 0, 0, 0]
+blackareas = []
+orientation = Normal

@@ -1,0 +1,15 @@
+make = Panasonic
+model = DMC-LX1
+clean_make = Panasonic
+clean_model = DMC-LX1
+width = 3880
+height = 2170
+cpp = 1
+wb_coeffs = [566.0, 264.0, 354.0, NaN]
+whitelevels = [3971, 3971, 3971, 3971]
+blacklevels = [0, 0, 0, 0]
+xyz_to_cam = [[10704.0, -4187.0, -1230.0], [-8314.0, 15952.0, 2501.0], [-920.0, 945.0, 8927.0], [0.0, 0.0, 0.0]]
+cfa = RGGB
+crops = [0, 16, 0, 6]
+blackareas = []
+orientation = Normal

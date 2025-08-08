@@ -1,0 +1,15 @@
+make = Google
+model = Pixel 8 Pro
+clean_make = Google
+clean_model = Pixel 8 Pro
+width = 8160
+height = 6144
+cpp = 1
+wb_coeffs = [NaN, NaN, NaN, NaN]
+whitelevels = [16368, 16368, 16368, 16368]
+blacklevels = [1024, 1024, 1024, 1024]
+xyz_to_cam = [[0.849, -0.2014, -0.1226], [-0.585, 1.4801, 0.1018], [-0.186, 0.3981, 0.4547], [0.0, 0.0, 0.0]]
+cfa = RGGB
+crops = [0, 0, 0, 0]
+blackareas = []
+orientation = Normal
