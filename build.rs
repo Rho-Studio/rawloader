@@ -281,15 +281,9 @@ fn main() {
                 .iter()
                 .flat_map(|item| &item.color_matrix.rows)
                 .filter_map(|item| {
-                    if let Some(row) = item.value.as_ref() {
-                        Some(
-                            row.split_whitespace()
+                    item.value.as_ref().map(|row| row.split_whitespace()
                                 .filter_map(|item| item.parse::<i64>().ok())
-                                .collect::<Vec<_>>(),
-                        )
-                    } else {
-                        None
-                    }
+                                .collect::<Vec<_>>())
                 })
                 .flatten()
                 .collect();
@@ -301,7 +295,7 @@ fn main() {
                         color
                             .value
                             .clone()
-                            .and_then(|item| item.chars().nth(0))
+                            .and_then(|item| item.chars().next())
                             .map(|char| char.to_string())
                     })
                     .collect::<Vec<_>>()
@@ -447,7 +441,7 @@ fn main() {
                                     color
                                         .value
                                         .clone()
-                                        .and_then(|item| item.chars().nth(0))
+                                        .and_then(|item| item.chars().next())
                                         .map(|char| char.to_string())
                                 })
                                 .collect::<Vec<_>>()
@@ -512,6 +506,6 @@ fn main() {
     let mut out = File::create(dest_path).unwrap();
 
     let contents = ::toml::to_string(&config).unwrap();
-    out.write_all(&contents.as_bytes()).unwrap();
+    out.write_all(contents.as_bytes()).unwrap();
     out.write_all(b"\n").unwrap();
 }

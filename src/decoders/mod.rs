@@ -91,9 +91,9 @@ pub use self::image::*;
 use self::tiff::*;
 mod unwrapped;
 
-pub static CAMERAS_TOML: &'static str = include_str!(concat!(env!("OUT_DIR"), "/all.toml"));
-pub static SAMPLE: &'static str = "\nPlease submit samples at https://raw.pixls.us/";
-pub static BUG: &'static str =
+pub static CAMERAS_TOML: &str = include_str!(concat!(env!("OUT_DIR"), "/all.toml"));
+pub static SAMPLE: &str = "\nPlease submit samples at https://raw.pixls.us/";
+pub static BUG: &str =
     "\nPlease file a bug with a sample file at https://github.com/pedrocr/rawloader/issues/new";
 
 pub trait Decoder {
@@ -116,10 +116,7 @@ impl Buffer {
         }
         let size = buffer.len();
         buffer.extend([0; 16].iter().cloned());
-        Ok(Buffer {
-            buf: buffer,
-            size: size,
-        })
+        Ok(Buffer { buf: buffer, size })
     }
 }
 
@@ -146,6 +143,12 @@ pub struct Camera {
     wb_offset: usize,
     highres_width: usize,
     hints: Vec<String>,
+}
+
+impl Default for Camera {
+    fn default() -> Self {
+        Self::new()
+    }
 }
 
 impl Camera {
@@ -195,18 +198,18 @@ impl Camera {
                 }
                 "color_matrix" => {
                     let matrix = val.as_array().unwrap();
-                    for (i, val) in matrix.into_iter().enumerate() {
+                    for (i, val) in matrix.iter().enumerate() {
                         self.xyz_to_cam[i / 3][i % 3] = val.as_integer().unwrap() as f32;
                     }
                 }
                 "crops" => {
                     let crop_vals = val.as_array().unwrap();
-                    for (i, val) in crop_vals.into_iter().enumerate() {
+                    for (i, val) in crop_vals.iter().enumerate() {
                         self.crops[i] = val.as_integer().unwrap() as usize;
                     }
                 }
                 "color_pattern" => {
-                    self.cfa = cfa::CFA::new(&val.as_str().unwrap().to_string());
+                    self.cfa = cfa::CFA::new(val.as_str().unwrap());
                 }
                 "bps" => {
                     self.bps = val.as_integer().unwrap() as usize;
@@ -256,7 +259,7 @@ impl Camera {
             crops: [0, 0, 0, 0],
             bps: 0,
             wb_offset: 0,
-            highres_width: usize::max_value(),
+            highres_width: usize::MAX,
             hints: Vec::new(),
             orientation: Orientation::Unknown,
         }
@@ -401,6 +404,12 @@ pub struct RawLoader {
     naked: HashMap<usize, Camera>,
 }
 
+impl Default for RawLoader {
+    fn default() -> Self {
+        Self::new()
+    }
+}
+
 impl RawLoader {
     /// Creates a new raw loader using the camera information included in the library
     pub fn new() -> RawLoader {
@@ -462,7 +471,7 @@ impl RawLoader {
 
         RawLoader {
             cameras: map,
-            naked: naked,
+            naked,
         }
     }
 
@@ -471,23 +480,23 @@ impl RawLoader {
         let buffer = &buf.buf;
 
         if mrw::is_mrw(buffer) {
-            let dec = Box::new(mrw::MrwDecoder::new(buffer, &self));
+            let dec = Box::new(mrw::MrwDecoder::new(buffer, self));
             return Ok(dec as Box<dyn Decoder>);
         }
 
         if ciff::is_ciff(buffer) {
             let ciff = ciff::CiffIFD::new_file(buf)?;
-            let dec = Box::new(crw::CrwDecoder::new(buffer, ciff, &self));
+            let dec = Box::new(crw::CrwDecoder::new(buffer, ciff, self));
             return Ok(dec as Box<dyn Decoder>);
         }
 
         if ari::is_ari(buffer) {
-            let dec = Box::new(ari::AriDecoder::new(buffer, &self));
+            let dec = Box::new(ari::AriDecoder::new(buffer, self));
             return Ok(dec as Box<dyn Decoder>);
         }
 
         if x3f::is_x3f(buffer) {
-            let dec = Box::new(x3f::X3fDecoder::new(buf, &self));
+            let dec = Box::new(x3f::X3fDecoder::new(buf, self));
             return Ok(dec as Box<dyn Decoder>);
         }
 
@@ -556,8 +565,8 @@ impl RawLoader {
         Err(format!("Couldn't find a decoder for this file.{}", SAMPLE).to_string())
     }
 
-    fn check_supported_with_everything<'a>(
-        &'a self,
+    fn check_supported_with_everything(
+        &self,
         make: &str,
         model: &str,
         mode: &str,
@@ -596,7 +605,7 @@ impl RawLoader {
     }
 
     fn decode_unsafe(&self, buffer: &Buffer, dummy: bool) -> Result<RawImage, String> {
-        let decoder = self.get_decoder(&buffer)?;
+        let decoder = self.get_decoder(buffer)?;
         decoder.image(dummy)
     }
 
