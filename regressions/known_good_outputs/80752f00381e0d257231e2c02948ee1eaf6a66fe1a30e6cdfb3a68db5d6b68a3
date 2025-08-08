@@ -1,7 +1,5 @@
 make = Canon
 model = Canon PowerShot SX240 HS
-clean_make = Canon
-clean_model = Canon PowerShot SX240 HS
 width = 4176
 height = 3060
 cpp = 1

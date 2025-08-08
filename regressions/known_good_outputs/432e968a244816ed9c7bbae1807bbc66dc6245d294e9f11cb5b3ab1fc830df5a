@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS Rebel T6
-clean_make = Canon
-clean_model = Canon EOS Rebel T6
 width = 5344
 height = 3516
 cpp = 1

@@ -1,7 +1,5 @@
 make = EASTMAN KODAK COMPANY
 model = KODAK P880 ZOOM DIGITAL CAMERA
-clean_make = Kodak
-clean_model = P880
 width = 3280
 height = 2454
 cpp = 1

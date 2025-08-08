@@ -1,7 +1,5 @@
 make = Canon
 model = Canon PowerShot SX50 HS
-clean_make = Canon
-clean_model = PowerShot SX50 HS
 width = 4176
 height = 3062
 cpp = 1

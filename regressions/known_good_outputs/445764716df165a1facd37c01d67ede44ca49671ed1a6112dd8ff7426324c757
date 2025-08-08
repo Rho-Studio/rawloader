@@ -1,7 +1,5 @@
 make = Canon
 model = Canon PowerShot S2 IS
-clean_make = Canon
-clean_model = Canon PowerShot S2 IS
 width = 2672
 height = 1968
 cpp = 1

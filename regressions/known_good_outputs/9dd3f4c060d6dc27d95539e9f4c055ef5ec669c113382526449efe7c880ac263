@@ -1,7 +1,5 @@
 make = Canon
 model = Canon IXY 220F
-clean_make = Canon
-clean_model = Canon IXY 220F
 width = 4784
 height = 3516
 cpp = 1

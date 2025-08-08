@@ -1,7 +1,5 @@
 make = YI TECHNOLOGY
 model = M1
-clean_make = YI TECHNOLOGY
-clean_model = M1
 width = 5200
 height = 3902
 cpp = 1

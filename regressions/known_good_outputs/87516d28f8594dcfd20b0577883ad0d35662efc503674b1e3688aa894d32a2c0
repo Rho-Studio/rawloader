@@ -1,7 +1,5 @@
 make = Panasonic
 model = DMC-GH2
-clean_make = Panasonic
-clean_model = DMC-GH2
 width = 4760
 height = 3472
 cpp = 1

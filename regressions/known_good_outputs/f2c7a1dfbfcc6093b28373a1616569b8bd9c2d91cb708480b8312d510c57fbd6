@@ -1,7 +1,5 @@
 make = OLYMPUS IMAGING CORP.
 model = E-M5MarkII
-clean_make = Olympus
-clean_model = E-M5 Mark II
 width = 4640
 height = 3472
 cpp = 1

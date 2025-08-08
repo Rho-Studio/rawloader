@@ -1,7 +1,5 @@
 make = OLYMPUS OPTICAL CO.,LTD
 model = E-20,E-20N,E-20P
-clean_make = Olympus
-clean_model = E-20
 width = 2576
 height = 1924
 cpp = 1

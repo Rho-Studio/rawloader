@@ -1,7 +1,5 @@
 make = NIKON CORPORATION
 model = NIKON D4S
-clean_make = Nikon
-clean_model = D4S
 width = 4936
 height = 3288
 cpp = 1

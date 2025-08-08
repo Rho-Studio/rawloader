@@ -1,7 +1,5 @@
 make = SONY
 model = NEX-5R
-clean_make = Sony
-clean_model = NEX-5R
 width = 4928
 height = 3276
 cpp = 1

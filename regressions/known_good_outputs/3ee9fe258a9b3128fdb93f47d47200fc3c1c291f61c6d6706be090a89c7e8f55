@@ -1,7 +1,5 @@
 make = bq
 model = Aquaris U Plus
-clean_make = bq
-clean_model = Aquaris U Plus
 width = 4640
 height = 3480
 cpp = 1

@@ -1,7 +1,5 @@
 make = LEICA CAMERA AG
 model = LEICA X2
-clean_make = LEICA CAMERA AG
-clean_model = LEICA X2
 width = 4944
 height = 3272
 cpp = 1

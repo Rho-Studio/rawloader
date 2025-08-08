@@ -1,7 +1,5 @@
 make = Canon
 model = EOS D2000C
-clean_make = Canon
-clean_model = EOS D2000C
 width = 1736
 height = 1160
 cpp = 1

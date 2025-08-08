@@ -1,7 +1,5 @@
 make = SAMSUNG TECHWIN Co.
 model = SAMSUNG GX20
-clean_make = SAMSUNG TECHWIN Co.
-clean_model = SAMSUNG GX20
 width = 4864
 height = 3136
 cpp = 1

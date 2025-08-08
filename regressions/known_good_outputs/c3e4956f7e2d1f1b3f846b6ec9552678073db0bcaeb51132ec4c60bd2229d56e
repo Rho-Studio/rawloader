@@ -1,7 +1,5 @@
 make = NIKON CORPORATION
 model = NIKON D40X
-clean_make = Nikon
-clean_model = D40X
 width = 3904
 height = 2616
 cpp = 1

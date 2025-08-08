@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS REBEL SL1
-clean_make = Canon
-clean_model = EOS Rebel SL1
 width = 5280
 height = 3528
 cpp = 1

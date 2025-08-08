@@ -1,7 +1,5 @@
 make = Canon
 model = Canon PowerShot G11
-clean_make = Canon
-clean_model = PowerShot G11
 width = 3744
 height = 2784
 cpp = 1

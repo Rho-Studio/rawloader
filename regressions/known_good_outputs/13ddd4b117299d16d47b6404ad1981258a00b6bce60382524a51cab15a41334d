@@ -1,7 +1,5 @@
 make = samsung
 model = SM-S901U
-clean_make = samsung
-clean_model = SM-S901U
 width = 3648
 height = 2736
 cpp = 3

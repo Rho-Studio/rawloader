@@ -1,7 +1,5 @@
 make = SONY
 model = DSLR-A350
-clean_make = Sony
-clean_model = DSLR-A350
 width = 4600
 height = 3072
 cpp = 1

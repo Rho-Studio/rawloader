@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS D60
-clean_make = Canon
-clean_model = EOS D60
 width = 3152
 height = 2068
 cpp = 1

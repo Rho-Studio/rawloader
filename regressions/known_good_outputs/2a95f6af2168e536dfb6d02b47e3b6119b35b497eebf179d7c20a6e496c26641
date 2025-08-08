@@ -1,7 +1,5 @@
 make = KONICA MINOLTA
 model = DiMAGE A200
-clean_make = Minolta
-clean_model = DiMAGE A200
 width = 3280
 height = 2454
 cpp = 1

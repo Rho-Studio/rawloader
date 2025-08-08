@@ -1,7 +1,5 @@
 make = FUJIFILM
 model = X-Pro2
-clean_make = Fujifilm
-clean_model = X-Pro2
 width = 6160
 height = 4032
 cpp = 1

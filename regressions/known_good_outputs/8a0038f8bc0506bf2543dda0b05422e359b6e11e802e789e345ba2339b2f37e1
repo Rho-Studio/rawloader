@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS 650D
-clean_make = Canon
-clean_model = EOS 650D
 width = 5280
 height = 3528
 cpp = 1

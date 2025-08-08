@@ -1,7 +1,5 @@
 make = LGE
 model = LG-D855
-clean_make = LGE
-clean_model = LG-D855
 width = 4164
 height = 3120
 cpp = 1

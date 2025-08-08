@@ -1,7 +1,5 @@
 make = SONY
 model = DSC-R1
-clean_make = Sony
-clean_model = DSC-R1
 width = 3984
 height = 2608
 cpp = 1

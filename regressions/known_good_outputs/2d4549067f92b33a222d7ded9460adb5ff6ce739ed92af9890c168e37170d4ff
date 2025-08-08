@@ -1,7 +1,5 @@
 make = FUJIFILM
 model = FinePix S200EXR
-clean_make = Fujifilm
-clean_model = FinePix S200EXR
 width = 2880
 height = 2128
 cpp = 1

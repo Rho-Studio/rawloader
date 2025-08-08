@@ -1,7 +1,5 @@
 make = HUAWEI
 model = EVA-AL00
-clean_make = HUAWEI
-clean_model = EVA-AL00
 width = 3968
 height = 2976
 cpp = 1

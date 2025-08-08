@@ -1,7 +1,5 @@
 make = Hasselblad
 model = Flash Sync
-clean_make = Hasselblad
-clean_model = CF132
 width = 4096
 height = 5456
 cpp = 1

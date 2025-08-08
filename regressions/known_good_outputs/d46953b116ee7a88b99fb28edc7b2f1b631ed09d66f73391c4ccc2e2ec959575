@@ -1,7 +1,5 @@
 make = motorola
 model = moto g(7) play
-clean_make = motorola
-clean_model = moto g(7) play
 width = 4208
 height = 3120
 cpp = 1

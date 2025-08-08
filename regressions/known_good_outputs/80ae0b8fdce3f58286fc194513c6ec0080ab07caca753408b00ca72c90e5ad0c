@@ -1,7 +1,5 @@
 make = SIGMA
 model = SIGMA fp
-clean_make = SIGMA
-clean_model = SIGMA fp
 width = 1936
 height = 1090
 cpp = 1

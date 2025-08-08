@@ -1,7 +1,5 @@
 make = Nokia
 model = Lumia 1020
-clean_make = Nokia
-clean_model = Lumia 1020
 width = 7152
 height = 5360
 cpp = 1

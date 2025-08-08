@@ -1,7 +1,5 @@
 make = Canon
 model = PowerShot A610
-clean_make = Canon
-clean_model = PowerShot A610
 width = 2672
 height = 1968
 cpp = 1

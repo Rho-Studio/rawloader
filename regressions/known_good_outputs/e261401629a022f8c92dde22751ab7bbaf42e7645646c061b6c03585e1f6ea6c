@@ -1,7 +1,5 @@
 make = Panasonic
 model = DC-GX800
-clean_make = Panasonic
-clean_model = DC-GX800
 width = 4816
 height = 3464
 cpp = 1

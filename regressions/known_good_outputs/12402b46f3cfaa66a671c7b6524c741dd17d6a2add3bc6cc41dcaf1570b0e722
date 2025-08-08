@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS Kiss F
-clean_make = Canon
-clean_model = Kiss F
 width = 3948
 height = 2622
 cpp = 1

@@ -1,7 +1,5 @@
 make = LG Mobile
 model = LG-H870
-clean_make = LG Mobile
-clean_model = LG-H870
 width = 4160
 height = 3120
 cpp = 1

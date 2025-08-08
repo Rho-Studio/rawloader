@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS M100
-clean_make = Canon
-clean_model = EOS M100
 width = 6288
 height = 4056
 cpp = 1

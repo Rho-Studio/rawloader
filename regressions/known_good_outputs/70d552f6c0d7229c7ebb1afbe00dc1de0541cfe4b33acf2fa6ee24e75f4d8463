@@ -1,7 +1,5 @@
 make = Panasonic
 model = DMC-FZ35
-clean_make = Panasonic
-clean_model = DMC-FZ35
 width = 4060
 height = 2266
 cpp = 1

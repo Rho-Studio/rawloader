@@ -1,7 +1,5 @@
 make = LGE
 model = Nexus 5X
-clean_make = LGE
-clean_model = Nexus 5X
 width = 4080
 height = 3028
 cpp = 1

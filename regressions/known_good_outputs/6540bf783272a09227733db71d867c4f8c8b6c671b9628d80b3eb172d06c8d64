@@ -1,7 +1,5 @@
 make = FUJIFILM
 model = X100F
-clean_make = Fujifilm
-clean_model = X100F
 width = 6160
 height = 4032
 cpp = 1

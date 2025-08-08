@@ -1,7 +1,5 @@
 make = FUJIFILM
 model = FinePix S3Pro
-clean_make = Fujifilm
-clean_model = FinePix S3Pro
 width = 3584
 height = 3583
 cpp = 1

@@ -1,7 +1,5 @@
 make = FUJIFILM
 model = FinePix HS20EXR
-clean_make = Fujifilm
-clean_model = FinePix HS20EXR
 width = 3328
 height = 2464
 cpp = 1

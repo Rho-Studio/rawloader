@@ -1,7 +1,5 @@
 make = Eastman Kodak Company
 model = Kodak DC120 ZOOM Digital Camera
-clean_make = Kodak
-clean_model = DC120
 width = 848
 height = 976
 cpp = 1

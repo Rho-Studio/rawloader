@@ -1,7 +1,5 @@
 make = LG Mobile
 model = VS995
-clean_make = LG Mobile
-clean_model = VS995
 width = 4656
 height = 3492
 cpp = 1

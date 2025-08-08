@@ -1,7 +1,5 @@
 make = PENTAX Corporation
 model = PENTAX K10D
-clean_make = Pentax
-clean_model = K10D
 width = 3936
 height = 2624
 cpp = 1

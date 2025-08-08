@@ -1,7 +1,5 @@
 make = Canon
 model = Canon PowerShot G7 X Mark II
-clean_make = Canon
-clean_model = Canon PowerShot G7 X Mark II
 width = 5632
 height = 3710
 cpp = 1

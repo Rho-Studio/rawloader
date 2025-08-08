@@ -1,7 +1,5 @@
 make = Hasselblad
 model = Hasselblad CFV-50
-clean_make = Hasselblad
-clean_model = CFV-50
 width = 8282
 height = 6240
 cpp = 1

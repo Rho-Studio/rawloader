@@ -1,7 +1,5 @@
 make = KanDao
 model = QooCam
-clean_make = KanDao
-clean_model = QooCam
 width = 4320
 height = 2160
 cpp = 1

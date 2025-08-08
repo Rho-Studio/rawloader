@@ -1,7 +1,5 @@
 make = Leica Camera AG
 model = LEICA M MONOCHROM (Typ 246)
-clean_make = Leica Camera AG
-clean_model = LEICA M MONOCHROM (Typ 246)
 width = 5984
 height = 4000
 cpp = 1

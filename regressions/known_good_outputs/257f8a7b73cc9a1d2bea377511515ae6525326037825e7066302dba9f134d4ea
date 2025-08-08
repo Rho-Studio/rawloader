@@ -1,7 +1,5 @@
 make = RICOH IMAGING COMPANY, LTD.
 model = PENTAX K-1
-clean_make = RICOH IMAGING COMPANY, LTD.
-clean_model = PENTAX K-1
 width = 7392
 height = 4950
 cpp = 1

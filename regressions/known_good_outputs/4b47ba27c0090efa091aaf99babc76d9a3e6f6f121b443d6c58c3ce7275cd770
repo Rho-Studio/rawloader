@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS DIGITAL REBEL XT
-clean_make = Canon
-clean_model = Rebel XT
 width = 3516
 height = 2328
 cpp = 1

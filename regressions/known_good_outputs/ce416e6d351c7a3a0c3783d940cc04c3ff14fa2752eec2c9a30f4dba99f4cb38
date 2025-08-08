@@ -1,7 +1,5 @@
 make = Panasonic
 model = DMC-GX8
-clean_make = Panasonic
-clean_model = DMC-GX8
 width = 5264
 height = 3904
 cpp = 1

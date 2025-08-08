@@ -1,7 +1,5 @@
 make = google
 model = MI 8
-clean_make = google
-clean_model = MI 8
 width = 4032
 height = 2268
 cpp = 1

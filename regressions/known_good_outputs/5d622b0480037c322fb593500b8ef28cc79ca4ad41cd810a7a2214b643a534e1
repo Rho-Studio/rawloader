@@ -1,7 +1,5 @@
 make = LEICA
 model = D-LUX 3
-clean_make = Leica
-clean_model = D-LUX 3
 width = 4330
 height = 2439
 cpp = 1

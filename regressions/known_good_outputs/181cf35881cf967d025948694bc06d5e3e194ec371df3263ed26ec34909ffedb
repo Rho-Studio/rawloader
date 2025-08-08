@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS 80D
-clean_make = Canon
-clean_model = Canon EOS 80D
 width = 4536
 height = 3024
 cpp = 3

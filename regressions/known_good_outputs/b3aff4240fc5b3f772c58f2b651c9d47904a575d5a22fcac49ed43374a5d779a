@@ -1,7 +1,5 @@
 make = OLYMPUS IMAGING CORP.
 model = E-620
-clean_make = Olympus
-clean_model = E-620
 width = 4100
 height = 3084
 cpp = 1

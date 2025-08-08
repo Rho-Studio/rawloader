@@ -1,7 +1,5 @@
 make = KODAK
 model = EOSDCS1B        FILE VERSION 3
-clean_make = Kodak
-clean_model = EOS DCS 1
 width = 3072
 height = 2048
 cpp = 1

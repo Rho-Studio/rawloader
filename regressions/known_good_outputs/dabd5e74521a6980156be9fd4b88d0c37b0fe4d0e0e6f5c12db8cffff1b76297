@@ -1,7 +1,5 @@
 make = FUJIFILM
 model = FinePix S5000
-clean_make = Fujifilm
-clean_model = FinePix S5000
 width = 2500
 height = 2499
 cpp = 1

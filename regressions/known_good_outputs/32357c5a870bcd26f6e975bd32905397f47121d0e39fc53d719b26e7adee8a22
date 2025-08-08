@@ -1,7 +1,5 @@
 make = Canon
 model = Canon PowerShot SD450
-clean_make = Canon
-clean_model = Canon PowerShot SD450
 width = 2672
 height = 1968
 cpp = 1

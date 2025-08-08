@@ -1,7 +1,5 @@
 make = HUAWEI
 model = SNE-LX1
-clean_make = HUAWEI
-clean_model = SNE-LX1
 width = 5120
 height = 3840
 cpp = 1

@@ -1,7 +1,5 @@
 make = HUAWEI
 model = FRD-L09
-clean_make = HUAWEI
-clean_model = FRD-L09
 width = 3968
 height = 2976
 cpp = 1

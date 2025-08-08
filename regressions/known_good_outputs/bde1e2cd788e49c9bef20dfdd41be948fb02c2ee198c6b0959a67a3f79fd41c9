@@ -1,7 +1,5 @@
 make = Minolta Co., Ltd.
 model = DiMAGE A1
-clean_make = Minolta
-clean_model = DiMAGE A1
 width = 2568
 height = 1928
 cpp = 1

@@ -1,7 +1,5 @@
 make = Hasselblad
 model = Hasselblad H6D-100cMS
-clean_make = Hasselblad
-clean_model = H6D-100cMS
 width = 12000
 height = 8816
 cpp = 1

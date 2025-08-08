@@ -1,7 +1,5 @@
 make = Canon
 model = Canon DIGITAL IXUS 60
-clean_make = Canon
-clean_model = Canon DIGITAL IXUS 60
 width = 2888
 height = 2136
 cpp = 1

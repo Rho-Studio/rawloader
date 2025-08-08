@@ -1,7 +1,5 @@
 make = Canon
 model = Canon PowerShot G12
-clean_make = Canon
-clean_model = PowerShot G12
 width = 3744
 height = 2784
 cpp = 1

@@ -1,7 +1,5 @@
 make = OLYMPUS IMAGING CORP.
 model = C7070WZ
-clean_make = Olympus
-clean_model = C7070WZ
 width = 3088
 height = 2309
 cpp = 1

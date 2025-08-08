@@ -1,7 +1,5 @@
 make = Panasonic
 model = DMC-G80
-clean_make = Panasonic
-clean_model = DMC-G80
 width = 4816
 height = 3464
 cpp = 1

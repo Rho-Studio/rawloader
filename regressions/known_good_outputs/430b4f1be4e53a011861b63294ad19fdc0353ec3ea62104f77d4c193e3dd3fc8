@@ -1,7 +1,5 @@
 make = NIKON CORPORATION
 model = NIKON D7500
-clean_make = NIKON CORPORATION
-clean_model = NIKON D7500
 width = 5600
 height = 3728
 cpp = 1

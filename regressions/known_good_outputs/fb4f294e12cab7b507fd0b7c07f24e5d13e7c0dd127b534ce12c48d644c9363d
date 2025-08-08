@@ -1,7 +1,5 @@
 make = DJI
 model = FC7303
-clean_make = DJI
-clean_model = FC7303
 width = 4000
 height = 2250
 cpp = 1

@@ -1,7 +1,5 @@
 make = Hasselblad
 model = Hasselblad 500 mech.
-clean_make = Hasselblad
-clean_model = CFV
 width = 4096
 height = 4096
 cpp = 1

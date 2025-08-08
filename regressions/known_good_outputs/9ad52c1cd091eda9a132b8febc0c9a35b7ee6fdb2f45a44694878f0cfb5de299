@@ -1,7 +1,5 @@
 make = Yuneec
 model = CGO3P
-clean_make = Yuneec
-clean_model = CGO3P
 width = 4000
 height = 3000
 cpp = 1

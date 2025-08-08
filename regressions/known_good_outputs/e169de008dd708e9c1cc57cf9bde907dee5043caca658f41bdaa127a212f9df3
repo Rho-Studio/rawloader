@@ -1,7 +1,5 @@
 make = EASTMAN KODAK COMPANY
 model = KODAK EASYSHARE Z1015 IS DIGITAL CAMERA
-clean_make = Kodak
-clean_model = EasyShare Z1015 IS
 width = 3664
 height = 2742
 cpp = 1

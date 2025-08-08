@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS REBEL T5
-clean_make = Canon
-clean_model = EOS Rebel T5
 width = 5344
 height = 3516
 cpp = 1

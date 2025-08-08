@@ -1,7 +1,5 @@
 make = OLYMPUS CORPORATION
 model = E-M1MarkII
-clean_make = OLYMPUS CORPORATION
-clean_model = E-M1MarkII
 width = 5240
 height = 3912
 cpp = 1

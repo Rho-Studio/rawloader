@@ -1,7 +1,5 @@
 make = Apple
 model = iPhone XS
-clean_make = Apple
-clean_model = iPhone XS
 width = 4032
 height = 3024
 cpp = 1

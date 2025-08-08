@@ -1,7 +1,5 @@
 make = LG Mobile
 model = LG-F800K
-clean_make = LG Mobile
-clean_model = LG-F800K
 width = 4656
 height = 3492
 cpp = 1

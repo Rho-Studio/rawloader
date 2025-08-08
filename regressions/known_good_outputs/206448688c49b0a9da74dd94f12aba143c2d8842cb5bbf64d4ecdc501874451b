@@ -1,7 +1,5 @@
 make = FUJIFILM
 model = X10
-clean_make = Fujifilm
-clean_model = FinePix X10
 width = 2944
 height = 2144
 cpp = 1

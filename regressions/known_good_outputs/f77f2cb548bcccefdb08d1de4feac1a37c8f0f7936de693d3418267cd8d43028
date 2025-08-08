@@ -1,7 +1,5 @@
 make = HUAWEI
 model = WAS-LX1A
-clean_make = HUAWEI
-clean_model = WAS-LX1A
 width = 3968
 height = 2976
 cpp = 1

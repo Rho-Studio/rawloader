@@ -1,7 +1,5 @@
 make = EASTMAN KODAK COMPANY
 model = KODAK P712 ZOOM DIGITAL CAMERA
-clean_make = Kodak
-clean_model = P712
 width = 3088
 height = 2310
 cpp = 1

@@ -1,7 +1,5 @@
 make = NIKON CORPORATION
 model = NIKON D610
-clean_make = Nikon
-clean_model = D610
 width = 6080
 height = 4028
 cpp = 1

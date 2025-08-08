@@ -1,7 +1,5 @@
 make = Leica Camera AG
 model = M9 Digital Camera
-clean_make = Leica Camera AG
-clean_model = M9 Digital Camera
 width = 5216
 height = 3472
 cpp = 1

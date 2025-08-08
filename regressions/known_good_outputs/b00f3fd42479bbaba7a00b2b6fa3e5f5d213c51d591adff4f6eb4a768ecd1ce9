@@ -1,7 +1,5 @@
 make = PENTAX RICOH IMAGING
 model = PENTAX MX-1
-clean_make = PENTAX RICOH IMAGING
-clean_model = PENTAX MX-1
 width = 4016
 height = 3010
 cpp = 1

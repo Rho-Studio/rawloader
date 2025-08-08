@@ -1,7 +1,5 @@
 make = SONY
 model = SLT-A77V
-clean_make = Sony
-clean_model = SLT-A77V
 width = 6048
 height = 4024
 cpp = 1

@@ -1,7 +1,5 @@
 make = Canon
 model = Canon PowerShot A640
-clean_make = Canon
-clean_model = Canon PowerShot A640
 width = 3736
 height = 2772
 cpp = 1

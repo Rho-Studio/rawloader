@@ -1,7 +1,5 @@
 make = LEICA
 model = D-LUX (Typ 109)
-clean_make = Leica
-clean_model = D-LUX (Typ 109)
 width = 3248
 height = 3104
 cpp = 1

@@ -1,7 +1,5 @@
 make = PENTAX Corporation
 model = PENTAX *ist DL2
-clean_make = Pentax
-clean_model = *ist DL2
 width = 3040
 height = 2024
 cpp = 1

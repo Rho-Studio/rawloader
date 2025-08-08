@@ -1,7 +1,5 @@
 make = FUJIFILM
 model = X-S1
-clean_make = Fujifilm
-clean_model = X-S1
 width = 2944
 height = 2144
 cpp = 1

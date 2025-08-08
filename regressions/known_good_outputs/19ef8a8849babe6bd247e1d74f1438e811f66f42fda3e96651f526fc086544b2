@@ -1,7 +1,5 @@
 make = LGE
 model = LG-US996
-clean_make = LGE
-clean_model = LG-US996
 width = 4656
 height = 3492
 cpp = 1

@@ -1,7 +1,5 @@
 make = NIKON CORPORATION
 model = NIKON D3
-clean_make = Nikon
-clean_model = D3
 width = 4288
 height = 2844
 cpp = 1

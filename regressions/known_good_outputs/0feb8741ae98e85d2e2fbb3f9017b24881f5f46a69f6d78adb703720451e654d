@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS DIGITAL REBEL XS
-clean_make = Canon
-clean_model = Rebel XS
 width = 3948
 height = 2622
 cpp = 1

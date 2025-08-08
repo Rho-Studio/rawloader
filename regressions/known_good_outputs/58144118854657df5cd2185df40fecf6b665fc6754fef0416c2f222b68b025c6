@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS 10D
-clean_make = Canon
-clean_model = EOS 10D
 width = 3152
 height = 2068
 cpp = 1

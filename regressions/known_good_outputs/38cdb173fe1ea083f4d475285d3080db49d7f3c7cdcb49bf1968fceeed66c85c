@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS 750D
-clean_make = Canon
-clean_model = EOS 750D
 width = 6096
 height = 4056
 cpp = 1

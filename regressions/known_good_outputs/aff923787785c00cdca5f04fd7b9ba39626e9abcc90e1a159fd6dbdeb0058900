@@ -1,7 +1,5 @@
 make = Panasonic
 model = DC-TZ90
-clean_make = Panasonic
-clean_model = DC-TZ90
 width = 5264
 height = 3904
 cpp = 1

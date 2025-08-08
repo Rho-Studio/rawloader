@@ -1,7 +1,5 @@
 make = FUJIFILM
 model = FinePix S9500
-clean_make = Fujifilm
-clean_model = FinePix S9500
 width = 4292
 height = 4291
 cpp = 1

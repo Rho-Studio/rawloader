@@ -1,7 +1,5 @@
 make = OLYMPUS IMAGING CORP.
 model = SP350
-clean_make = Olympus
-clean_model = SP350
 width = 3280
 height = 2453
 cpp = 1

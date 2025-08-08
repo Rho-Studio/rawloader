@@ -1,7 +1,5 @@
 make = OLYMPUS IMAGING CORP.
 model = XZ-2
-clean_make = Olympus
-clean_model = XZ-2
 width = 3984
 height = 2986
 cpp = 1

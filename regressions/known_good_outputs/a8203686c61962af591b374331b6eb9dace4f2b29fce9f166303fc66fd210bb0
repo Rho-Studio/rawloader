@@ -1,7 +1,5 @@
 make = RICOH IMAGING COMPANY, LTD.
 model = PENTAX 645Z
-clean_make = Pentax
-clean_model = 645Z
 width = 8384
 height = 6208
 cpp = 1

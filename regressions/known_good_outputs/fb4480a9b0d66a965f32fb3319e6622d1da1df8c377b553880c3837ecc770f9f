@@ -1,7 +1,5 @@
 make = Panasonic
 model = DC-GH5
-clean_make = Panasonic
-clean_model = DC-GH5
 width = 5264
 height = 3904
 cpp = 1

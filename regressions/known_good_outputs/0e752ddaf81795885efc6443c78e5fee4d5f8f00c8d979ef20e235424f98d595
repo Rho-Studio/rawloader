@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS 400D DIGITAL
-clean_make = Canon
-clean_model = EOS 400D
 width = 3948
 height = 2622
 cpp = 1

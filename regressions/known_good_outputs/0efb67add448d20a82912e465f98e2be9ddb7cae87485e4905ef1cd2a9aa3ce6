@@ -1,7 +1,5 @@
 make = HUAWEI
 model = ANE-LX1
-clean_make = HUAWEI
-clean_model = ANE-LX1
 width = 4608
 height = 3456
 cpp = 1

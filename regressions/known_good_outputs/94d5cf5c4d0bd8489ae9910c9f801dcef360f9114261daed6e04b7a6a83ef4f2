@@ -1,7 +1,5 @@
 make = Canon
 model = Canon PowerShot D10
-clean_make = Canon
-clean_model = PowerShot D10
 width = 4104
 height = 3048
 cpp = 1

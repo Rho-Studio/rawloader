@@ -1,7 +1,5 @@
 make = OLYMPUS CORPORATION
 model = TG-5
-clean_make = OLYMPUS CORPORATION
-clean_model = TG-5
 width = 4040
 height = 3016
 cpp = 1

@@ -1,7 +1,5 @@
 make = Apple
 model = iPhone 6s Plus
-clean_make = Apple
-clean_model = iPhone 6s Plus
 width = 4032
 height = 3024
 cpp = 1

@@ -1,7 +1,5 @@
 make = Panasonic
 model = DMC-G70
-clean_make = Panasonic
-clean_model = DMC-G70
 width = 4816
 height = 3464
 cpp = 1

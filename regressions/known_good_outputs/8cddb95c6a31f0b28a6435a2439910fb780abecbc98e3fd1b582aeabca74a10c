@@ -1,7 +1,5 @@
 make = LEICA
 model = V-LUX 4
-clean_make = LEICA
-clean_model = V-LUX 4
 width = 4144
 height = 3016
 cpp = 1

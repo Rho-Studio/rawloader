@@ -1,7 +1,5 @@
 make = Canon
 model = Canon PowerShot G6
-clean_make = Canon
-clean_model = PowerShot G6
 width = 3160
 height = 2344
 cpp = 1

@@ -1,7 +1,5 @@
 make = SONY
 model = DSC-RX10M3
-clean_make = SONY
-clean_model = DSC-RX10M3
 width = 5504
 height = 3672
 cpp = 1

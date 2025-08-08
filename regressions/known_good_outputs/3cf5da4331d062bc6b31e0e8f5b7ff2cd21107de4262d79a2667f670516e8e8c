@@ -1,7 +1,5 @@
 make = samsung
 model = SM-G955F
-clean_make = samsung
-clean_model = SM-G955F
 width = 4032
 height = 3024
 cpp = 1

@@ -1,7 +1,5 @@
 make = SONY
 model = NEX-C3
-clean_make = Sony
-clean_model = NEX-C3
 width = 4928
 height = 3280
 cpp = 1

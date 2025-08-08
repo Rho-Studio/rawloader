@@ -1,7 +1,5 @@
 make = SAMSUNG
 model = EK-GN120
-clean_make = Samsung
-clean_model = EK-GN120
 width = 5546
 height = 3714
 cpp = 1

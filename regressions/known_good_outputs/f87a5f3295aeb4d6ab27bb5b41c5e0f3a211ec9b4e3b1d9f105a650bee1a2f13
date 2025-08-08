@@ -1,7 +1,5 @@
 make = OLYMPUS CORPORATION
 model = PEN-F
-clean_make = Olympus
-clean_model = PEN-F
 width = 10400
 height = 7796
 cpp = 1

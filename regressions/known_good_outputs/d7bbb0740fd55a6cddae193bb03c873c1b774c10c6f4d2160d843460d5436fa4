@@ -1,7 +1,5 @@
 make = OLYMPUS CORPORATION
 model = C8080WZ
-clean_make = Olympus
-clean_model = C8080WZ
 width = 3280
 height = 2453
 cpp = 1

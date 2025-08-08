@@ -1,7 +1,5 @@
 make = Hasselblad
 model = Hasselblad H3D
-clean_make = Hasselblad
-clean_model = H3D
 width = 7262
 height = 5456
 cpp = 1

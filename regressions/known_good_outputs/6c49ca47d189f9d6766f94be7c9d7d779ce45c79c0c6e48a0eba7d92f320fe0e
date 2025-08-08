@@ -1,7 +1,5 @@
 make = NIKON CORPORATION
 model = NIKON D5200
-clean_make = Nikon
-clean_model = D5200
 width = 6036
 height = 4020
 cpp = 1

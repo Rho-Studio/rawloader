@@ -1,7 +1,5 @@
 make = Hasselblad
 model = Hasselblad H5D-50c
-clean_make = Hasselblad
-clean_model = H5D-50c
 width = 8374
 height = 6304
 cpp = 1

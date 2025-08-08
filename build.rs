@@ -313,7 +313,7 @@ fn main() {
                     .collect::<Vec<_>>()
                     .join("")
             } else {
-                String::new()
+                "RGGB".to_string()
             };
 
             let color_pattern = if color_pattern == "FMYC" {
@@ -462,7 +462,7 @@ fn main() {
                                 .join(""),
                         )
                     } else {
-                        None
+                        Some("RGGB".to_string())
                     };
 
                     let color_pattern =

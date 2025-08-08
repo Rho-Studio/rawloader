@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS 50D
-clean_make = Canon
-clean_model = EOS 50D
 width = 3344
 height = 2178
 cpp = 3

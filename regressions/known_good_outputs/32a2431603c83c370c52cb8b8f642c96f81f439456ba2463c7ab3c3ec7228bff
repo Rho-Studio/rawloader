@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS 5DS
-clean_make = Canon
-clean_model = EOS 5DS
 width = 4320
 height = 2880
 cpp = 3

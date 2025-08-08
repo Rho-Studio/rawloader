@@ -1,7 +1,5 @@
 make = Canon
 model = Canon PowerShot SX160 IS
-clean_make = Canon
-clean_model = Canon PowerShot SX160 IS
 width = 4704
 height = 3504
 cpp = 1

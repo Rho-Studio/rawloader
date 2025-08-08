@@ -1,7 +1,5 @@
 make = NIKON CORPORATION
 model = NIKON D7100
-clean_make = Nikon
-clean_model = D7100
 width = 6036
 height = 4020
 cpp = 1

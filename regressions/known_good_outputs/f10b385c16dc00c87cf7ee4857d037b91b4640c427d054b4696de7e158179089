@@ -1,7 +1,5 @@
 make = SIGMA
 model = sd Quattro
-clean_make = SIGMA
-clean_model = sd Quattro
 width = 5888
 height = 3776
 cpp = 3

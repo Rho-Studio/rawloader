@@ -1,7 +1,5 @@
 make = OLYMPUS OPTICAL CO.,LTD
 model = C5050Z
-clean_make = Olympus
-clean_model = C5050Z
 width = 2576
 height = 1925
 cpp = 1

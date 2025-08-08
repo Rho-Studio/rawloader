@@ -1,7 +1,5 @@
 make = Xiaomi
 model = MI MAX
-clean_make = Xiaomi
-clean_model = MI MAX
 width = 4672
 height = 3504
 cpp = 1

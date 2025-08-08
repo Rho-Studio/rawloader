@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS 350D DIGITAL
-clean_make = Canon
-clean_model = EOS 350D
 width = 3516
 height = 2328
 cpp = 1

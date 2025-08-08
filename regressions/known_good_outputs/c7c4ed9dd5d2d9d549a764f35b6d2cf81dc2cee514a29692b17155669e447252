@@ -1,7 +1,5 @@
 make = Panasonic
 model = DMC-L10
-clean_make = Panasonic
-clean_model = DMC-L10
 width = 3710
 height = 2751
 cpp = 1

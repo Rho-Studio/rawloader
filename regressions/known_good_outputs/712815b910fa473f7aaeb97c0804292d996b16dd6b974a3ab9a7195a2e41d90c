@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS 6D Mark II
-clean_make = Canon
-clean_model = EOS 6D Mark II
 width = 6384
 height = 4224
 cpp = 1

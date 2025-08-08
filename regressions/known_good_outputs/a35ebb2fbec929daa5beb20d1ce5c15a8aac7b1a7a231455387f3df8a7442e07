@@ -1,7 +1,5 @@
 make = SONY
 model = ILCE-7S
-clean_make = Sony
-clean_model = ILCE-7S
 width = 2816
 height = 1872
 cpp = 1

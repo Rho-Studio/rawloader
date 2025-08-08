@@ -1,7 +1,5 @@
 make = XIAOYI
 model = YIAC 3
-clean_make = XIAOYI
-clean_model = YIAC 3
 width = 4000
 height = 3000
 cpp = 1

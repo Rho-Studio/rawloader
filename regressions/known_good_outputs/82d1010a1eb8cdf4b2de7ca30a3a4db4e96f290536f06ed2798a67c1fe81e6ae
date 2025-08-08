@@ -1,7 +1,5 @@
 make = FUJIFILM
 model = FinePix E550
-clean_make = Fujifilm
-clean_model = FinePix E550
 width = 3588
 height = 3587
 cpp = 1

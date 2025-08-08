@@ -1,7 +1,5 @@
 make = Minolta Co., Ltd.
 model = DiMAGE 7
-clean_make = Minolta
-clean_model = DiMAGE 7
 width = 2568
 height = 1928
 cpp = 1

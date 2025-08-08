@@ -1,7 +1,5 @@
 make = FUJIFILM
 model = GFX 50S
-clean_make = Fujifilm
-clean_model = GFX 50S
 width = 9216
 height = 6210
 cpp = 1

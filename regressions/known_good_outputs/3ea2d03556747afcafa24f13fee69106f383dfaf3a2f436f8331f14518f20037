@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS 5D Mark IV
-clean_make = Canon
-clean_model = Canon EOS 5D Mark IV
 width = 5040
 height = 3360
 cpp = 3

@@ -1,7 +1,5 @@
 make = PENTAX Corporation
 model = PENTAX *ist DS
-clean_make = Pentax
-clean_model = *ist DS
 width = 3040
 height = 2024
 cpp = 1

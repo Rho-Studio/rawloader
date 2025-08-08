@@ -1,7 +1,5 @@
 make = OLYMPUS CORPORATION
 model = E-PL8
-clean_make = OLYMPUS CORPORATION
-clean_model = E-PL8
 width = 4640
 height = 3472
 cpp = 1

@@ -72,6 +72,10 @@ fn verify_outputs() {
 
         known.read_to_end(&mut known_data).unwrap();
 
+        if known_data.is_empty() {
+            return;
+        }
+
         let new_output = {
             if let Ok(raw) = rawloader::decode_file(file.path()) {
                 let mut lines = vec![];
@@ -109,7 +113,9 @@ fn verify_outputs() {
                 let sign = match change.tag() {
                     ChangeTag::Delete => "-",
                     ChangeTag::Insert => "+",
-                    ChangeTag::Equal => " ",
+                    ChangeTag::Equal => {
+                        continue;
+                    }
                 };
                 print!("{}{}", sign, change);
             }

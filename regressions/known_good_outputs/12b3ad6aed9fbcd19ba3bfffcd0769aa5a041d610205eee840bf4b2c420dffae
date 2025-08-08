@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS 5D Mark II
-clean_make = Canon
-clean_model = EOS 5D Mark II
 width = 5792
 height = 3804
 cpp = 1

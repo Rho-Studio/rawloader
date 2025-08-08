@@ -1,7 +1,5 @@
 make = SONY
 model = DSLR-A500
-clean_make = Sony
-clean_model = DSLR-A500
 width = 4288
 height = 2858
 cpp = 1

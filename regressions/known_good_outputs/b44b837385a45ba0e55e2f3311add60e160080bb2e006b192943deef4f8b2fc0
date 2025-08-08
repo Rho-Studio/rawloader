@@ -1,7 +1,5 @@
 make = Canon
 model = Canon PowerShot SX510 HS
-clean_make = Canon
-clean_model = Canon PowerShot SX510 HS
 width = 4168
 height = 3062
 cpp = 1

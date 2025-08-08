@@ -1,7 +1,5 @@
 make = PENTAX
 model = PENTAX Q
-clean_make = PENTAX
-clean_model = PENTAX Q
 width = 4064
 height = 3000
 cpp = 1

@@ -1,7 +1,5 @@
 make = SONY
 model = SLT-A65V
-clean_make = Sony
-clean_model = SLT-A65V
 width = 6048
 height = 4024
 cpp = 1

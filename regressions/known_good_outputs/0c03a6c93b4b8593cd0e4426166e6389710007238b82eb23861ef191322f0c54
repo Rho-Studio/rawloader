@@ -1,7 +1,5 @@
 make = Google
 model = Pixel 4 XL
-clean_make = Google
-clean_model = Pixel 4 XL
 width = 3700
 height = 2774
 cpp = 1

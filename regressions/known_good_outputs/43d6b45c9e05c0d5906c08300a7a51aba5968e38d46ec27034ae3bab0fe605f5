@@ -1,7 +1,5 @@
 make = RICOH
 model = GR DIGITAL 2
-clean_make = RICOH
-clean_model = GR DIGITAL 2
 width = 3656
 height = 2744
 cpp = 1

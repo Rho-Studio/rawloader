@@ -1,7 +1,5 @@
 make = Leica Camera AG
 model = M8 Digital Camera
-clean_make = Leica Camera AG
-clean_model = M8 Digital Camera
 width = 3920
 height = 2638
 cpp = 1

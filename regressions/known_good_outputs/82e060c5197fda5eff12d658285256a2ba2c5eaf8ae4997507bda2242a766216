@@ -1,7 +1,5 @@
 make = HMD Global
 model = Nokia 7 plus
-clean_make = HMD Global
-clean_model = Nokia 7 plus
 width = 4032
 height = 3024
 cpp = 1

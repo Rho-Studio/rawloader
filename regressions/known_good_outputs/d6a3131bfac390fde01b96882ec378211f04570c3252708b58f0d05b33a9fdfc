@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS DIGITAL REBEL
-clean_make = Canon
-clean_model = Rebel
 width = 3152
 height = 2068
 cpp = 1

@@ -1,7 +1,5 @@
 make = Eyedeas
 model = E1
-clean_make = Eyedeas
-clean_model = E1
 width = 4640
 height = 3480
 cpp = 1

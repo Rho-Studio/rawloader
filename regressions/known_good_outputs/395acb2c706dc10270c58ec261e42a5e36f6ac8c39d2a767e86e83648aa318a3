@@ -1,7 +1,5 @@
 make = Hasselblad
 model = Hasselblad X1D
-clean_make = Hasselblad
-clean_model = X1D
 width = 8384
 height = 6304
 cpp = 1

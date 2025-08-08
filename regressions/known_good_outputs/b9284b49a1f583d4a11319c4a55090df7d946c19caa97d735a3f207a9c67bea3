@@ -1,7 +1,5 @@
 make = Xiaomi
 model = Redmi Note 8T
-clean_make = Xiaomi
-clean_model = Redmi Note 8T
 width = 4000
 height = 3000
 cpp = 1

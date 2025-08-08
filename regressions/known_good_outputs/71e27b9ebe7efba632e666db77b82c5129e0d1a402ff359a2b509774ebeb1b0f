@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS M10
-clean_make = Canon
-clean_model = EOS M10
 width = 5280
 height = 3528
 cpp = 1

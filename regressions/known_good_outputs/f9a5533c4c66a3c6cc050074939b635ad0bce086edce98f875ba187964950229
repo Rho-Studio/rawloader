@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS Rebel SL2
-clean_make = Canon
-clean_model = EOS Rebel SL2
 width = 6288
 height = 4056
 cpp = 1

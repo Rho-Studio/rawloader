@@ -1,7 +1,5 @@
 make = Canon
 model = Canon PowerShot A3200 IS
-clean_make = Canon
-clean_model = Canon PowerShot A3200 IS
 width = 4416
 height = 3296
 cpp = 1

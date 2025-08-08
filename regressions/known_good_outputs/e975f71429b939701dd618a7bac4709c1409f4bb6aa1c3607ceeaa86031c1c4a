@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS 450D
-clean_make = Canon
-clean_model = EOS 450D
 width = 4312
 height = 2876
 cpp = 1

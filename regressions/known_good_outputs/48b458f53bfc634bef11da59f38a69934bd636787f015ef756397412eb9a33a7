@@ -1,7 +1,5 @@
 make = Panasonic
 model = DMC-TZ80
-clean_make = Panasonic
-clean_model = DMC-TZ80
 width = 5040
 height = 3688
 cpp = 1

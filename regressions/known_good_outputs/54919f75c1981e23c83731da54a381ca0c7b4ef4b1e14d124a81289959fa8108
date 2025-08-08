@@ -1,7 +1,5 @@
 make = Arashi Vision
 model = Insta360 One2
-clean_make = Arashi Vision
-clean_model = Insta360 One2
 width = 3040
 height = 6080
 cpp = 1

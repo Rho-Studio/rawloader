@@ -1,7 +1,5 @@
 make = OnePlus
 model = One A0001
-clean_make = OnePlus
-clean_model = One A0001
 width = 4212
 height = 3120
 cpp = 1

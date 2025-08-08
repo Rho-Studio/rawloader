@@ -1,7 +1,5 @@
 make = OnePlus
 model = ONEPLUS A3003
-clean_make = OnePlus
-clean_model = ONEPLUS A3003
 width = 4656
 height = 3496
 cpp = 1

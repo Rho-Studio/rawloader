@@ -1,7 +1,5 @@
 make = NIKON CORPORATION
 model = NIKON D600
-clean_make = Nikon
-clean_model = D600
 width = 6080
 height = 4028
 cpp = 1

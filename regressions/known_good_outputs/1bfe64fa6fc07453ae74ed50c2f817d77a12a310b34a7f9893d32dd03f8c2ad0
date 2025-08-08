@@ -1,7 +1,5 @@
 make = Hasselblad
 model = Hasselblad H4D-40
-clean_make = Hasselblad
-clean_model = H4D-40
 width = 7410
 height = 5586
 cpp = 1

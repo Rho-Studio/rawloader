@@ -1,7 +1,5 @@
 make = NIKON CORPORATION
 model = NIKON D5
-clean_make = Nikon
-clean_model = D5
 width = 5584
 height = 3728
 cpp = 1

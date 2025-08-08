@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS 60D
-clean_make = Canon
-clean_model = EOS 60D
 width = 5344
 height = 3516
 cpp = 1

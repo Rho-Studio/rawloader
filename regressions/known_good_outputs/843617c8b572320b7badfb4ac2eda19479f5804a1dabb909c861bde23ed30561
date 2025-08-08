@@ -1,7 +1,5 @@
 make = samsung
 model = SM-G935F
-clean_make = samsung
-clean_model = SM-G935F
 width = 4032
 height = 2268
 cpp = 1

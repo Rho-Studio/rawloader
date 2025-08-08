@@ -1,7 +1,5 @@
 make = Panasonic
 model = DMC-GH1
-clean_make = Panasonic
-clean_model = DMC-GH1
 width = 4060
 height = 3016
 cpp = 1

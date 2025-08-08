@@ -1,7 +1,5 @@
 make = Pentax
 model = Optio S4
-clean_make = Pentax
-clean_model = Optio S4
 width = 2346
 height = 1737
 cpp = 1

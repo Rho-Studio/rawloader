@@ -1,7 +1,5 @@
 make = samsung
 model = Galaxy S23+
-clean_make = samsung
-clean_model = Galaxy S23+
 width = 8160
 height = 6120
 cpp = 3

@@ -1,7 +1,5 @@
 make = NIKON
 model = COOLPIX P6000
-clean_make = Nikon
-clean_model = Coolpix P6000
 width = 4240
 height = 3174
 cpp = 1

@@ -1,7 +1,5 @@
 make = Canon
 model = Canon PowerShot A480
-clean_make = Canon
-clean_model = Canon PowerShot A480
 width = 3720
 height = 2772
 cpp = 1

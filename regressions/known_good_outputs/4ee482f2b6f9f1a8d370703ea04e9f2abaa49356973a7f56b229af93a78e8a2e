@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS D30
-clean_make = Canon
-clean_model = EOS D30
 width = 2224
 height = 1456
 cpp = 1

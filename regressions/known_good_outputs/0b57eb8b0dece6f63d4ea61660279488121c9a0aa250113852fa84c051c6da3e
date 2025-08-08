@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS 500D
-clean_make = Canon
-clean_model = EOS 500D
 width = 4832
 height = 3204
 cpp = 1

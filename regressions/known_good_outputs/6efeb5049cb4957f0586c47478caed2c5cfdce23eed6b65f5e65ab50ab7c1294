@@ -1,7 +1,5 @@
 make = NIKON
 model = E5700
-clean_make = Nikon
-clean_model = E5700
 width = 2576
 height = 1924
 cpp = 1

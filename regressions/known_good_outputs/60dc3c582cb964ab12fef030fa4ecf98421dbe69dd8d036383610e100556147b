@@ -1,7 +1,5 @@
 make = LGE
 model = LG-H910
-clean_make = LGE
-clean_model = LG-H910
 width = 4656
 height = 3492
 cpp = 1

@@ -1,7 +1,5 @@
 make = RICOH IMAGING COMPANY, LTD.
 model = PENTAX K-3 Mark III Monochrome
-clean_make = RICOH IMAGING COMPANY, LTD.
-clean_model = PENTAX K-3 Mark III Monochrome
 width = 6304
 height = 4224
 cpp = 1

@@ -1,7 +1,5 @@
 make = HUAWEI
 model = DLI-L22
-clean_make = HUAWEI
-clean_model = DLI-L22
 width = 4208
 height = 3120
 cpp = 1

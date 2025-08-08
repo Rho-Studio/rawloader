@@ -1,7 +1,5 @@
 make = Canon
 model = Canon PowerShot A540
-clean_make = Canon
-clean_model = Canon PowerShot A540
 width = 2888
 height = 2136
 cpp = 1

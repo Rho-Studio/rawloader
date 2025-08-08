@@ -1,7 +1,5 @@
 make = Canon
 model = Canon PowerShotS3IS
-clean_make = Canon
-clean_model = Canon PowerShotS3IS
 width = 2888
 height = 2136
 cpp = 1

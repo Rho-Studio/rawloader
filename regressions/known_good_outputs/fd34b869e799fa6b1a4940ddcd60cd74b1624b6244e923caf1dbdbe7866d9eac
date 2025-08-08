@@ -1,7 +1,5 @@
 make = NIKON CORPORATION
 model = NIKON D800
-clean_make = Nikon
-clean_model = D800
 width = 7424
 height = 4924
 cpp = 1

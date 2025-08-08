@@ -1,7 +1,5 @@
 make = KONICA MINOLTA
 model = DYNAX 5D
-clean_make = Minolta
-clean_model = Dynax 5D
 width = 3016
 height = 2008
 cpp = 1

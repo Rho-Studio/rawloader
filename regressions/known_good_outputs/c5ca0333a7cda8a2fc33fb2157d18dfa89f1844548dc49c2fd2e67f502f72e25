@@ -1,7 +1,5 @@
 make = NIKON CORPORATION
 model = COOLPIX A
-clean_make = Nikon
-clean_model = Coolpix A
 width = 4992
 height = 3280
 cpp = 1

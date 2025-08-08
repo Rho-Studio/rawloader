@@ -1,7 +1,5 @@
 make = SAMSUNG
 model = NX mini
-clean_make = Samsung
-clean_model = NX mini
 width = 5664
 height = 3710
 cpp = 1

@@ -1,7 +1,5 @@
 make = Panasonic
 model = DMC-FZ8
-clean_make = Panasonic
-clean_model = DMC-FZ8
 width = 3130
 height = 2319
 cpp = 1

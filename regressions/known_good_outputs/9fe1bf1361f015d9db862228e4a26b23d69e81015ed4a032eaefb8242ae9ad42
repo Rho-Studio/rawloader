@@ -1,7 +1,5 @@
 make = FUJIFILM
 model = FinePixS2Pro
-clean_make = Fujifilm
-clean_model = FinePix S2Pro
 width = 3568
 height = 3567
 cpp = 1

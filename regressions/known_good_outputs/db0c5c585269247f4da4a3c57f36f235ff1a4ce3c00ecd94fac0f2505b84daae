@@ -1,7 +1,5 @@
 make = Panasonic
 model = DMC-FZ28
-clean_make = Panasonic
-clean_model = DMC-FZ28
 width = 3724
 height = 2754
 cpp = 1

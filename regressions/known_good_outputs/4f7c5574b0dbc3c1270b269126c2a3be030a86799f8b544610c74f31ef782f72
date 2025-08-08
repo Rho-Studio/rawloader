@@ -1,7 +1,5 @@
 make = PENTAX Corporation
 model = PENTAX K110D
-clean_make = Pentax
-clean_model = K110D
 width = 3040
 height = 2024
 cpp = 1

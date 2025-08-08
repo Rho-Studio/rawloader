@@ -1,7 +1,5 @@
 make = asus
 model = ASUS_Z01KD
-clean_make = asus
-clean_model = ASUS_Z01KD
 width = 3916
 height = 2936
 cpp = 1

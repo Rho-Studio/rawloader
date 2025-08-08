@@ -1,7 +1,5 @@
 make = FUJIFILM
 model = FinePix X100
-clean_make = Fujifilm
-clean_model = FinePix X100
 width = 4448
 height = 2870
 cpp = 1

@@ -1,7 +1,5 @@
 make = Canon
 model = Canon PowerShot S100
-clean_make = Canon
-clean_model = PowerShot S100
 width = 4160
 height = 3124
 cpp = 1

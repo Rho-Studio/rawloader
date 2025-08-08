@@ -1,7 +1,5 @@
 make = Canon
 model = Canon PowerShot A570 IS
-clean_make = Canon
-clean_model = Canon PowerShot A570 IS
 width = 3152
 height = 2340
 cpp = 1

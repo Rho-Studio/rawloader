@@ -1,7 +1,5 @@
 make = Konica Minolta Camera, Inc.
 model = DiMAGE A2
-clean_make = Minolta
-clean_model = DiMAGE A2
 width = 3272
 height = 2456
 cpp = 1

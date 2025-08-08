@@ -1,7 +1,5 @@
 make = HUAWEI
 model = VOG-L29
-clean_make = HUAWEI
-clean_model = VOG-L29
 width = 3264
 height = 2448
 cpp = 1

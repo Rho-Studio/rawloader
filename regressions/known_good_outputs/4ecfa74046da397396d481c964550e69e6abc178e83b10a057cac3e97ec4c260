@@ -1,7 +1,5 @@
 make = asus
 model = ASUS_I01WD
-clean_make = asus
-clean_model = ASUS_I01WD
 width = 4224
 height = 3136
 cpp = 1

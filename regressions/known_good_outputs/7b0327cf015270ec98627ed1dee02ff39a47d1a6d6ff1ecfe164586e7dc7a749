@@ -1,7 +1,5 @@
 make = samsung
 model = SM-G950U
-clean_make = samsung
-clean_model = SM-G950U
 width = 4032
 height = 2268
 cpp = 1

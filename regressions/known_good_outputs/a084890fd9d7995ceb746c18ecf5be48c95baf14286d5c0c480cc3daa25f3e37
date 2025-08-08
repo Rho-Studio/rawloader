@@ -1,7 +1,5 @@
 make = SAMSUNG
 model = EX1
-clean_make = Samsung
-clean_model = EX1
 width = 3688
 height = 2780
 cpp = 1

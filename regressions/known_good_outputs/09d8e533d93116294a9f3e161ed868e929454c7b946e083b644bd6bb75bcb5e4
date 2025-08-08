@@ -1,7 +1,5 @@
 make = SEIKO EPSON CORP.
 model = R-D1
-clean_make = Epson
-clean_model = R-D1
 width = 3040
 height = 2024
 cpp = 1

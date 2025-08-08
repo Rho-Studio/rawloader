@@ -1,7 +1,5 @@
 make = OLYMPUS IMAGING CORP.
 model = SP510UZ
-clean_make = OLYMPUS IMAGING CORP.
-clean_model = SP510UZ
 width = 3088
 height = 2309
 cpp = 1

@@ -1,7 +1,5 @@
 make = DJI
 model = DJI Osmo Action
-clean_make = DJI
-clean_model = DJI Osmo Action
 width = 4000
 height = 3000
 cpp = 1

@@ -1,7 +1,5 @@
 make = Panasonic
 model = DMC-FZ70
-clean_make = Panasonic
-clean_model = DMC-FZ70
 width = 4816
 height = 3472
 cpp = 1

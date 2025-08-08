@@ -1,7 +1,5 @@
 make = SONY
 model = SLT-A57
-clean_make = Sony
-clean_model = SLT-A57
 width = 4928
 height = 3276
 cpp = 1

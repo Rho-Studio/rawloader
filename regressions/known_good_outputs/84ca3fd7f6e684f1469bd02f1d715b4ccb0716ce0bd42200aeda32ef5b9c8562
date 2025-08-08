@@ -1,7 +1,5 @@
 make = NIKON
 model = E8400
-clean_make = Nikon
-clean_model = E8400
 width = 3280
 height = 2454
 cpp = 1

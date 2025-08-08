@@ -1,7 +1,5 @@
 make = SONY
 model = DSLR-A700
-clean_make = Sony
-clean_model = DSLR-A700
 width = 4288
 height = 2856
 cpp = 1

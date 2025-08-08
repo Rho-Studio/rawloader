@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS 77D
-clean_make = Canon
-clean_model = Canon EOS 77D
 width = 6288
 height = 4056
 cpp = 1

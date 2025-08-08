@@ -1,7 +1,5 @@
 make = RICOH IMAGING COMPANY, LTD.
 model = RICOH GR IIIx
-clean_make = RICOH IMAGING COMPANY, LTD.
-clean_model = RICOH GR IIIx
 width = 6112
 height = 4064
 cpp = 1

@@ -1,7 +1,5 @@
 make = Autel Robotics
 model = XB015
-clean_make = Autel Robotics
-clean_model = XB015
 width = 4000
 height = 2250
 cpp = 1

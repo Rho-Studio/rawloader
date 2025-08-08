@@ -1,7 +1,5 @@
 make = Xiaomi
 model = M2010J19CG
-clean_make = Xiaomi
-clean_model = M2010J19CG
 width = 4000
 height = 3000
 cpp = 1

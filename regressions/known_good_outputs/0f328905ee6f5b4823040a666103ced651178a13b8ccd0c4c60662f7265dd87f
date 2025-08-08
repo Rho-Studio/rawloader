@@ -1,7 +1,5 @@
 make = RICOH
 model = RICOH GX200
-clean_make = RICOH
-clean_model = RICOH GX200
 width = 4096
 height = 3014
 cpp = 1

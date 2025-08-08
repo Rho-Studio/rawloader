@@ -1,7 +1,5 @@
 make = Canon
 model = Canon PowerShot Pro1
-clean_make = Canon
-clean_model = PowerShot Pro1
 width = 3344
 height = 2484
 cpp = 1

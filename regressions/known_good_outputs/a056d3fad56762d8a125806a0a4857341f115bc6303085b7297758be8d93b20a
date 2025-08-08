@@ -1,7 +1,5 @@
 make = OLYMPUS CORPORATION
 model = TG-4
-clean_make = Olympus
-clean_model = TG-4
 width = 4640
 height = 3472
 cpp = 1

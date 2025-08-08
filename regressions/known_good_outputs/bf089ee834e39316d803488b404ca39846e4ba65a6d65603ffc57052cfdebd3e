@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS Kiss X3
-clean_make = Canon
-clean_model = Kiss X3
 width = 4832
 height = 3204
 cpp = 1

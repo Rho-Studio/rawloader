@@ -1,7 +1,5 @@
 make = OLYMPUS CORPORATION
 model = E-M10 Mark III
-clean_make = OLYMPUS CORPORATION
-clean_model = E-M10 Mark III
 width = 4640
 height = 3472
 cpp = 1

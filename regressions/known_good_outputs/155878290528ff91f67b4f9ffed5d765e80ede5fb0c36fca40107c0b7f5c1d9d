@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS Kiss X80
-clean_make = Canon
-clean_model = Kiss X80
 width = 5344
 height = 3516
 cpp = 1

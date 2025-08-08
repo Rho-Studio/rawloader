@@ -1,7 +1,5 @@
 make = NIKON CORPORATION
 model = NIKON D850
-clean_make = NIKON CORPORATION
-clean_model = NIKON D850
 width = 6216
 height = 4136
 cpp = 1

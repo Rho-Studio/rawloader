@@ -1,7 +1,5 @@
 make = FUJIFILM
 model = X-E2S
-clean_make = Fujifilm
-clean_model = X-E2S
 width = 4992
 height = 3296
 cpp = 1

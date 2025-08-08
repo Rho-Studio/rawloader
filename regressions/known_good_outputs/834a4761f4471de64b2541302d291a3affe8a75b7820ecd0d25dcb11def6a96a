@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS-1Ds Mark III
-clean_make = Canon
-clean_model = EOS-1Ds Mark III
 width = 5712
 height = 3774
 cpp = 1

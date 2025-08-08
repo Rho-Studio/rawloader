@@ -1,7 +1,5 @@
 make = PENTAX
 model = PENTAX K200D
-clean_make = PENTAX
-clean_model = PENTAX K200D
 width = 3936
 height = 2624
 cpp = 1

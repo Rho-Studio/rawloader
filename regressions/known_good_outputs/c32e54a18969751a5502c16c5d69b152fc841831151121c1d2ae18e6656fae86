@@ -1,7 +1,5 @@
 make = Kodak
 model = DCS Pro SLR/n
-clean_make = Kodak
-clean_model = DCS Pro SLR/n
 width = 4516
 height = 3012
 cpp = 1

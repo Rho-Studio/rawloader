@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS 40D
-clean_make = Canon
-clean_model = EOS 40D
 width = 1944
 height = 1296
 cpp = 3

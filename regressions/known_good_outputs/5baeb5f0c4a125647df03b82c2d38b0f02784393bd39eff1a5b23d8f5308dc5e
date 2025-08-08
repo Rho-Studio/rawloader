@@ -1,7 +1,5 @@
 make = samsung
 model = SM-G998B
-clean_make = samsung
-clean_model = SM-G998B
 width = 4000
 height = 3000
 cpp = 3

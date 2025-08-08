@@ -1,7 +1,5 @@
 make = Apple
 model = iPhone 8
-clean_make = Apple
-clean_model = iPhone 8
 width = 4032
 height = 3024
 cpp = 1

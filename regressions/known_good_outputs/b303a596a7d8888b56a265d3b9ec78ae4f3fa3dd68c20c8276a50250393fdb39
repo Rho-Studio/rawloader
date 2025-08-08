@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS 7D
-clean_make = Canon
-clean_model = EOS 7D
 width = 5360
 height = 3516
 cpp = 1

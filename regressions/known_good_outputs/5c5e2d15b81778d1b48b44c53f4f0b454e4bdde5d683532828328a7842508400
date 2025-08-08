@@ -1,7 +1,5 @@
 make = Canon
 model = Canon PowerShot SX100 IS
-clean_make = Canon
-clean_model = Canon PowerShot SX100 IS
 width = 3336
 height = 2480
 cpp = 1

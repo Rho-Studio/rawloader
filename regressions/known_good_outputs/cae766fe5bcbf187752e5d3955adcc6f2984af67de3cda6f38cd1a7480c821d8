@@ -1,7 +1,5 @@
 make = Panasonic
 model = DMC-LX100
-clean_make = Panasonic
-clean_model = DMC-LX100
 width = 4592
 height = 2536
 cpp = 1

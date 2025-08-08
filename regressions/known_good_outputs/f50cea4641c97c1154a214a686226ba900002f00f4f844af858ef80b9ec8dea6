@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS Kiss X9
-clean_make = Canon
-clean_model = EOS Kiss X9
 width = 6288
 height = 4056
 cpp = 1

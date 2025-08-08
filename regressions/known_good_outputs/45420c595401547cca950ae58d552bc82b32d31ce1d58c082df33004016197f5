@@ -1,7 +1,5 @@
 make = Google
 model = Pixel 8 Pro
-clean_make = Google
-clean_model = Pixel 8 Pro
 width = 8160
 height = 6144
 cpp = 1

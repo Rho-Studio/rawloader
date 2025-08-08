@@ -1,7 +1,5 @@
 make = NIKON
 model = COOLPIX P7100
-clean_make = Nikon
-clean_model = Coolpix P7100
 width = 3664
 height = 2744
 cpp = 1

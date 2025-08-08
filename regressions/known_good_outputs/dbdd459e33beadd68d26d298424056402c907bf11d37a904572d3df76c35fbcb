@@ -1,7 +1,5 @@
 make = FUJIFILM
 model = FinePix HS10 HS11
-clean_make = Fujifilm
-clean_model = FinePix HS10 HS11
 width = 3664
 height = 2742
 cpp = 1

@@ -1,7 +1,5 @@
 make = HUAWEI
 model = HRY-LX1
-clean_make = HUAWEI
-clean_model = HRY-LX1
 width = 4160
 height = 3120
 cpp = 1

@@ -1,7 +1,5 @@
 make = SAMSUNG
 model = NX210
-clean_make = Samsung
-clean_model = NX210
 width = 5632
 height = 3720
 cpp = 1

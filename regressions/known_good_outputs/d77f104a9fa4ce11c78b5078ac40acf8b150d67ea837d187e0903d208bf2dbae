@@ -1,7 +1,5 @@
 make = FUJIFILM
 model = FinePix S1
-clean_make = FUJIFILM
-clean_model = FinePix S1
 width = 4624
 height = 3470
 cpp = 1

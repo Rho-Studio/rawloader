@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS M3
-clean_make = Canon
-clean_model = EOS M3
 width = 6096
 height = 4056
 cpp = 1

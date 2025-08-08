@@ -1,7 +1,5 @@
 make = NIKON
 model = COOLPIX B700
-clean_make = Nikon
-clean_model = Coolpix B700
 width = 5200
 height = 3902
 cpp = 1

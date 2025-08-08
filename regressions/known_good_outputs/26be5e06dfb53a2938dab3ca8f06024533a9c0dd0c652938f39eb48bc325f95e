@@ -1,7 +1,5 @@
 make = Leica Camera AG
 model = LEICA M10
-clean_make = Leica Camera AG
-clean_model = LEICA M10
 width = 5984
 height = 3992
 cpp = 1

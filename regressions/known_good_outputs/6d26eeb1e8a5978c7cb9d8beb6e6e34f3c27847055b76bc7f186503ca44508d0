@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS M2
-clean_make = Canon
-clean_model = EOS M2
 width = 5280
 height = 3528
 cpp = 1

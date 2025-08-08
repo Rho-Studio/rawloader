@@ -1,7 +1,5 @@
 make = OLYMPUS CORPORATION
 model = C5060WZ
-clean_make = Olympus
-clean_model = C5060WZ
 width = 2608
 height = 1949
 cpp = 1

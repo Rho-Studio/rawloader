@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS 6D
-clean_make = Canon
-clean_model = EOS 6D
 width = 5568
 height = 3708
 cpp = 1

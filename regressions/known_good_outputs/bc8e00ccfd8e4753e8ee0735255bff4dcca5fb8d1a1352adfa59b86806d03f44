@@ -1,7 +1,5 @@
 make = RICOH IMAGING COMPANY, LTD.
 model = GR II
-clean_make = RICOH IMAGING COMPANY, LTD.
-clean_model = GR II
 width = 4960
 height = 3280
 cpp = 1

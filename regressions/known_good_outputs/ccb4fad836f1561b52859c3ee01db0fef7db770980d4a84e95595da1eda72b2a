@@ -1,7 +1,5 @@
 make = FUJIFILM
 model = X20
-clean_make = Fujifilm
-clean_model = X20
 width = 4096
 height = 3012
 cpp = 1

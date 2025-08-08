@@ -1,7 +1,5 @@
 make = Realme
 model = RMX1851
-clean_make = Realme
-clean_model = RMX1851
 width = 4656
 height = 3496
 cpp = 1

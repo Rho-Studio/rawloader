@@ -1,7 +1,5 @@
 make = HUAWEI
 model = HUAWEI NXT-L29
-clean_make = HUAWEI
-clean_model = HUAWEI NXT-L29
 width = 4608
 height = 3456
 cpp = 1

@@ -1,7 +1,5 @@
 make = Panasonic
 model = DMC-GF5
-clean_make = Panasonic
-clean_model = DMC-GF5
 width = 4144
 height = 2264
 cpp = 1

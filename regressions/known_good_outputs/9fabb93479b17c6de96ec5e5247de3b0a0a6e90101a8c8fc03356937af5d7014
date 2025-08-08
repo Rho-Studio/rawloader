@@ -1,7 +1,5 @@
 make = NIKON CORPORATION
 model = NIKON D1X
-clean_make = Nikon
-clean_model = D1X
 width = 4028
 height = 1324
 cpp = 1

@@ -1,7 +1,5 @@
 make = Google
 model = Pixel 2 XL
-clean_make = Google
-clean_model = Pixel 2 XL
 width = 4032
 height = 3032
 cpp = 1

@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS-1D Mark IV
-clean_make = Canon
-clean_model = EOS-1D Mark IV
 width = 2448
 height = 1632
 cpp = 3

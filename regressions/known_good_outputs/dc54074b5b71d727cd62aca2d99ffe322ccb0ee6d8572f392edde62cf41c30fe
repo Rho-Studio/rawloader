@@ -1,7 +1,5 @@
 make = motorola
 model = Moto G (5S) Plus
-clean_make = motorola
-clean_model = Moto G (5S) Plus
 width = 4208
 height = 3120
 cpp = 1

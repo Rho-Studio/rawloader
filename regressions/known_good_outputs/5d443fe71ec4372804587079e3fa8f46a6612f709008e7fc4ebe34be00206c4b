@@ -1,7 +1,5 @@
 make = Xiaomi
 model = Mi 9 Lite
-clean_make = Xiaomi
-clean_model = Mi 9 Lite
 width = 4000
 height = 3000
 cpp = 1

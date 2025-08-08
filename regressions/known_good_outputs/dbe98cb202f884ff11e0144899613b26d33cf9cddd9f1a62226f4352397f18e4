@@ -1,7 +1,5 @@
 make = Hasselblad
 model = L2D-20c
-clean_make = Hasselblad
-clean_model = L2D-20c
 width = 5376
 height = 3956
 cpp = 1

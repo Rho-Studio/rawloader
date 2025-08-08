@@ -1,7 +1,5 @@
 make = Panasonic
 model = DMC-L1
-clean_make = Panasonic
-clean_model = DMC-L1
 width = 3177
 height = 2367
 cpp = 1

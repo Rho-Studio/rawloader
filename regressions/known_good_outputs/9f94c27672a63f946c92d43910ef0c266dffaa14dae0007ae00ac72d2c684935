@@ -1,7 +1,5 @@
 make = NIKON CORPORATION
 model = NIKON D50
-clean_make = Nikon
-clean_model = D50
 width = 3040
 height = 2014
 cpp = 1

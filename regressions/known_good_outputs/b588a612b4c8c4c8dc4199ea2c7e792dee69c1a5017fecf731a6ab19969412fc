@@ -1,7 +1,5 @@
 make = XIAOYI
 model = YDXJ 2
-clean_make = XIAOYI
-clean_model = YDXJ 2
 width = 3840
 height = 2160
 cpp = 1

@@ -1,7 +1,5 @@
 make = Panasonic
 model = DC-G9
-clean_make = Panasonic
-clean_model = DC-G9
 width = 5264
 height = 3912
 cpp = 1

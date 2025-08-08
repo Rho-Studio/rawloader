@@ -1,7 +1,5 @@
 make = Canon
 model = Canon PowerShot ELPH 180
-clean_make = Canon
-clean_model = Canon PowerShot ELPH 180
 width = 5248
 height = 3920
 cpp = 1

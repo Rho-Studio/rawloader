@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS 300D DIGITAL
-clean_make = Canon
-clean_model = EOS 300D
 width = 3152
 height = 2068
 cpp = 1

@@ -1,7 +1,5 @@
 make = FUJIFILM
 model = XQ1
-clean_make = Fujifilm
-clean_model = XQ1
 width = 4096
 height = 3012
 cpp = 1

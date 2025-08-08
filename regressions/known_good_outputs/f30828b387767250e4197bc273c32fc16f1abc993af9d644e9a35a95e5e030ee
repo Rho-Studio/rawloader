@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS DIGITAL REBEL XSi
-clean_make = Canon
-clean_model = Rebel XSi
 width = 4312
 height = 2876
 cpp = 1

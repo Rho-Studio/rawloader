@@ -1,7 +1,5 @@
 make = DJI
 model = FC6310
-clean_make = DJI
-clean_model = FC6310
 width = 5472
 height = 3648
 cpp = 1

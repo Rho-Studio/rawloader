@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS 30D
-clean_make = Canon
-clean_model = EOS 30D
 width = 3596
 height = 2360
 cpp = 1

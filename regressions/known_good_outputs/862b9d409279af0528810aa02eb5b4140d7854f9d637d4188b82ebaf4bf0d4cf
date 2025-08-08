@@ -1,7 +1,5 @@
 make = OLYMPUS IMAGING CORP.
 model = E-P1
-clean_make = Olympus
-clean_model = E-P1
 width = 4100
 height = 3084
 cpp = 1

@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS 1300D
-clean_make = Canon
-clean_model = Canon EOS 1300D
 width = 5344
 height = 3516
 cpp = 1

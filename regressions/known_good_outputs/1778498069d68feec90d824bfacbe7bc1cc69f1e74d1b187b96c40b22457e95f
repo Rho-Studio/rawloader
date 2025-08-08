@@ -1,7 +1,5 @@
 make = SONY
 model = DSC-RX1R
-clean_make = Sony
-clean_model = DSC-RX1R
 width = 6048
 height = 4024
 cpp = 1

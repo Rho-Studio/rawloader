@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS REBEL T3
-clean_make = Canon
-clean_model = EOS Rebel T3
 width = 4352
 height = 2874
 cpp = 1

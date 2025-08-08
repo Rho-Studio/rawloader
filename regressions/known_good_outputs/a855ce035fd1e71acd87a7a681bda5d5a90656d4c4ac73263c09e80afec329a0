@@ -1,7 +1,5 @@
 make = Panasonic
 model = DMC-LX5
-clean_make = Panasonic
-clean_model = DMC-LX5
 width = 4088
 height = 2250
 cpp = 1

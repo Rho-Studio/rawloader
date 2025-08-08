@@ -1,7 +1,5 @@
 make = Leaf
 model = Leaf Aptus 75
-clean_make = Leaf
-clean_model = Aptus 75
 width = 4992
 height = 6666
 cpp = 1

@@ -1,7 +1,5 @@
 make = DJI
 model = FC220
-clean_make = DJI
-clean_model = FC220
 width = 4000
 height = 3000
 cpp = 1

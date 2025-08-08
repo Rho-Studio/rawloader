@@ -1,7 +1,5 @@
 make = PENTAX
 model = PENTAX K-m
-clean_make = Pentax
-clean_model = K-m
 width = 3936
 height = 2624
 cpp = 1

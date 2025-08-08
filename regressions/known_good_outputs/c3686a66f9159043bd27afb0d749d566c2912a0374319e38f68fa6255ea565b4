@@ -1,7 +1,5 @@
 make = FUJIFILM
 model = FinePix F700
-clean_make = Fujifilm
-clean_model = FinePix F700
 width = 2524
 height = 2523
 cpp = 1

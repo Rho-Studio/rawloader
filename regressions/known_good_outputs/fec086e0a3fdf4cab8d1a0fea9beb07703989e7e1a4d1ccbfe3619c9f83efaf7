@@ -1,7 +1,5 @@
 make = Autel
 model = Model 323
-clean_make = Autel
-clean_model = Model 323
 width = 4000
 height = 3000
 cpp = 1

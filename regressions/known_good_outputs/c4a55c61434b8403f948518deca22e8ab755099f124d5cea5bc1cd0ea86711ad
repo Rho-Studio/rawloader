@@ -1,7 +1,5 @@
 make = Canon
 model = Canon PowerShot S95
-clean_make = Canon
-clean_model = PowerShot S95
 width = 3744
 height = 2784
 cpp = 1

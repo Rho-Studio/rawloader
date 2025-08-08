@@ -1,7 +1,5 @@
 make = SAMSUNG
 model = NX3000
-clean_make = Samsung
-clean_model = NX3000
 width = 5600
 height = 3714
 cpp = 1

@@ -1,7 +1,5 @@
 make = samsung
 model = SAMSUNG-SM-G930A
-clean_make = samsung
-clean_model = SAMSUNG-SM-G930A
 width = 4032
 height = 2268
 cpp = 1

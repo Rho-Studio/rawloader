@@ -1,7 +1,5 @@
 make = PARROT
 model = Bebop Drone
-clean_make = PARROT
-clean_model = Bebop Drone
 width = 4096
 height = 3320
 cpp = 1

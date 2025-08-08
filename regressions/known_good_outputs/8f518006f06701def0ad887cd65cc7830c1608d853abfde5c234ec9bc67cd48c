@@ -1,7 +1,5 @@
 make = Phase One A/S
 model = IQ140
-clean_make = Phase One
-clean_model = IQ140
 width = 7372
 height = 5536
 cpp = 1

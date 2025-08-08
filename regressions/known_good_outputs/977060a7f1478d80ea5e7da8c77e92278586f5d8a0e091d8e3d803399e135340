@@ -1,7 +1,5 @@
 make = Panasonic
 model = DMC-G6
-clean_make = Panasonic
-clean_model = DMC-G6
 width = 4816
 height = 3088
 cpp = 1

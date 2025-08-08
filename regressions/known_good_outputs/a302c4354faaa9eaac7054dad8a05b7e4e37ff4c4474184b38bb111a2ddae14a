@@ -1,7 +1,5 @@
 make = Kodak
 model = DCS560C
-clean_make = Kodak
-clean_model = DCS560C
 width = 3048
 height = 2016
 cpp = 1

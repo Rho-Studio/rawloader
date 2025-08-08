@@ -1,7 +1,5 @@
 make = EASTMAN KODAK COMPANY
 model = KODAK EasyShare Z990 Digital Camera
-clean_make = Kodak
-clean_model = EasyShare Z990
 width = 4016
 height = 3006
 cpp = 1

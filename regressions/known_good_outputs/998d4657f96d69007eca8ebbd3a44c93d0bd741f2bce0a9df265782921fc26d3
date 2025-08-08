@@ -1,7 +1,5 @@
 make = Panasonic
 model = DMC-G3
-clean_make = Panasonic
-clean_model = DMC-G3
 width = 3640
 height = 3440
 cpp = 1

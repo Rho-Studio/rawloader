@@ -1,7 +1,5 @@
 make = Canon
 model = Canon EOS REBEL T1i
-clean_make = Canon
-clean_model = EOS Rebel T1i
 width = 4832
 height = 3204
 cpp = 1

@@ -1,7 +1,5 @@
 make = Canon
 model = PowerShot A650
-clean_make = Canon
-clean_model = PowerShot A650
 width = 4104
 height = 3048
 cpp = 1

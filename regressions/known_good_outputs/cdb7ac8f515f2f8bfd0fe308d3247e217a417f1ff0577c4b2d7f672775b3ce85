@@ -1,7 +1,5 @@
 make = HUAWEI
 model = AUM-L29
-clean_make = HUAWEI
-clean_model = AUM-L29
 width = 4208
 height = 3120
 cpp = 1

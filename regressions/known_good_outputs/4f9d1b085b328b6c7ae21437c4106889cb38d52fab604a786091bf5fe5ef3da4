@@ -1,7 +1,5 @@
 make = samsung
 model = Galaxy S23 Ultra
-clean_make = samsung
-clean_model = Galaxy S23 Ultra
 width = 3648
 height = 2736
 cpp = 3
