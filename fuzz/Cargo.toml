@@ -8,7 +8,7 @@ edition = "2018"
 git = "https://github.com/pedrocr/afl.rs/"
 branch = "myblend"
 
-[dependencies.rawloader]
+[dependencies.rawloader2]
 path = "../"
 
 [profile.dev]

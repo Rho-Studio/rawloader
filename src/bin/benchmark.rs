@@ -29,18 +29,18 @@ fn main() {
             return;
         }
     };
-    let buffer = match rawloader::Buffer::new(&mut f) {
+    let buffer = match rawloader2::Buffer::new(&mut f) {
         Ok(val) => val,
         Err(e) => {
             error(&e);
             return;
         }
     };
-    let rawloader = rawloader::RawLoader::new();
+    let rawloader2 = rawloader2::RawLoader::new();
     let from_time = Instant::now();
     {
         for _ in 0..ITERATIONS {
-            let decoder = match rawloader.get_decoder(&buffer) {
+            let decoder = match rawloader2.get_decoder(&buffer) {
                 Ok(val) => val,
                 Err(e) => {
                     error(&e);

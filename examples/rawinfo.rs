@@ -1,10 +1,10 @@
-fn main() -> Result<(), rawloader::RawLoaderError> {
+fn main() -> Result<(), rawloader2::RawLoaderError> {
     let args: Vec<_> = std::env::args().collect();
     if args.len() != 2 {
         println!("Usage: {} <file>", args[0]);
         std::process::exit(2);
     }
-    let image = rawloader::decode_file(&args[1])?;
+    let image = rawloader2::decode_file(&args[1])?;
 
     println!("make: {}", image.make);
     println!("model: {}", image.model);
@@ -25,12 +25,12 @@ fn main() -> Result<(), rawloader::RawLoaderError> {
     use sha2::{Digest, Sha256};
     let mut hasher = Sha256::new();
     match image.data {
-        rawloader::RawImageData::Integer(data) => {
+        rawloader2::RawImageData::Integer(data) => {
             for val in data {
                 hasher.update(val.to_le_bytes());
             }
         }
-        rawloader::RawImageData::Float(data) => {
+        rawloader2::RawImageData::Float(data) => {
             for val in data {
                 hasher.update(val.to_le_bytes());
             }
