@@ -15,13 +15,13 @@
 //!  std::process::exit(2);
 //!  }
 //!  let file = &args[1];
-//!  let image = rawloader::decode_file(file).unwrap();
+//!  let image = rawloader2::decode_file(file).unwrap();
 //!
 //! // Write out the image as a grayscale PPM
 //!  let mut f = BufWriter::new(File::create(format!("{}.ppm",file)).unwrap());
 //!  let preamble = format!("P6 {} {} {}\n", image.width, image.height, 65535).into_bytes();
 //!  f.write_all(&preamble).unwrap();
-//!  if let rawloader::RawImageData::Integer(data) = image.data {
+//!  if let rawloader2::RawImageData::Integer(data) = image.data {
 //!    for pix in data {
 //!      // Do an extremely crude "demosaic" by setting R=G=B
 //!      let pixhigh = (pix>>8) as u8;
