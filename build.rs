@@ -281,9 +281,11 @@ fn main() {
                 .iter()
                 .flat_map(|item| &item.color_matrix.rows)
                 .filter_map(|item| {
-                    item.value.as_ref().map(|row| row.split_whitespace()
-                                .filter_map(|item| item.parse::<i64>().ok())
-                                .collect::<Vec<_>>())
+                    item.value.as_ref().map(|row| {
+                        row.split_whitespace()
+                            .filter_map(|item| item.parse::<i64>().ok())
+                            .collect::<Vec<_>>()
+                    })
                 })
                 .flatten()
                 .collect();

@@ -42,7 +42,11 @@ impl<'a> Decoder for ArwDecoder<'a> {
         let bps = if camera.bps != 0 {
             camera.bps
         } else {
-            fetch_tag!(raw, Tag::BitsPerSample).get_usize(0)
+            let tag_bits = fetch_tag!(raw, Tag::BitsPerSample).get_usize(0);
+            match compression {
+                32767 => 8,
+                _ => tag_bits,
+            }
         };
         let mut white = camera.whitelevels[0];
         let mut black = camera.blacklevels[0];
